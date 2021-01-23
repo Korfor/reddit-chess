@@ -1,0 +1,814 @@
+chess,"Welcome to /r/chess! PLEASE READ THE FAQ PAGE BEFORE POSTING A QUESTION. This community is dedicated to in-depth discussion about all things chess, from games, puzzles, and analysis to news and current events. Enjoy!",2008-04-05,287095
+mylittlechess,"A place for all chess playing bronies that fosters learning, playing and enjoyment of the game of chess! Oh, and ponies! ",2012-10-14,24
+uredditchess,"A subreddit for the University of Reddit&#039;s beginner chess course.",2012-08-20,387
+ChessTime,"Need a new player in ChessTime or just looking for advice, join the conversation at /r/ChessTime",2012-06-19,22
+chessvariants,"A sub reddit dedicated to sharing and discovering different styles of chess and games related to chess from all over the world, ancient to modern!",2012-06-08,4260
+Playchess,"/r/playchess is a small Reddit community for chess players to play friendly games of chess.",2012-05-22,52
+mlpchessclub,,2011-12-28,15
+TeamSolomid,"Team SoloMid (TSM) is a North American esports organization created around the community website Solomid.net in September 2009, by Andy &#039;&#039;Reginald&#039;&#039; Dinh and his brother Dan Dinh.  TSM is one of the most popular esports organizations in the world, with teams in League of Legends, Teamfight Tactics, Super Smash Bros. Melee &amp; Ultimate, PlayerUnknown&#039;s Battlegrounds, Fortnite, Apex Legends, VALORANT, Magic: The Gathering, Chess and Rainbow Six: Siege.",2011-12-16,112399
+chessporn,"Gorgeous views of the world&#039;s most beautiful game. From the slender lines of the queen to the suggestively cocked hat of the bishop, this is the place to show us your wood... or plastic or whatever the chess set may be made from.",2011-11-27,12770
+shogi,"The best shogi community on Reddit. Share your passion for shogi, Japanese Chess!  Logo Credits: https://imgur.com/gallery/oWvrpRy",2010-03-06,3478
+chartchess,,2010-02-01,80
+KrazyChess,,2009-08-26,65
+chessboxing,"Everything boxing, chessboxing &amp; chess.",2012-12-04,121
+thepeachtree,"Questions bring the answer out of KrazyTayl.  So, therefore, the real mystery is, &quot;Why did I make this subreddit?&quot;  I can teach you: Chess, Guitar (tips/techniques), meditation, speed reading, and magic tricks.  I cannot give you enlightenment--you&#039;re already enlightened (though you may have forgotten).  I&#039;m happy, therefore, to frustrate your attempts.  I&#039;m going to write a book.",2012-12-04,3
+thepublicblogger,"thinkersdeeperthanthesurface is a community for debaters, readers, writers, and discussion enthusiasts. If chess is your game and an analogy you often utilize.. If you enjoy tennis and American Football (or any combination of opposite sports) with the same intensity. If Quinton Tarentino is cool with you. If you believe in good karma, than this is your reddit. ",2012-11-06,1
+RandomCowFIlms,"You can talk about Random Cow Films things here if you like. Or you can talk about chocolate, cats, and cheese. Anything that starts with a C. Chess. Cops. Canned Food.",2012-10-21,1
+ChessCube,,2012-10-16,4
+karazhanchessteam,"Reddit Community for all things KCT related.",2012-08-29,4
+drunkchess,"For people that like playing chess drunk / also other drugs accepted.",2012-08-21,8
+LiveChess,"LiveChess is a reddit for playing chess against other redditors and tracking skill level compared with other users.  /r/Chess for chess news and discussion.",2012-07-31,4
+Chessleague,"For hosting tournements, discussing games etc. I see a lot r/chess posters usin chess.com so i figure we can somehow get a chess league going. Subscribe if you&#039;re interested. ",2012-06-25,9
+chessbyreddit,"Currently under construction; check back later. ",2012-06-17,12
+TerribleChess,"This reddit follows Terrible Chess, a YouTube account dedicated to making awful chess as funny (and instructive) as possible. ",2012-05-30,13
+reddit_chess,,2012-05-21,0
+letsplaychess,,2012-05-20,9
+PLoungeChess,,2012-05-19,0
+ChineseChess,,2012-05-03,41
+advancedchess,,2012-04-23,27
+ChessAnalysis,,2012-02-17,4
+THEWEAKINCHESS,,2012-02-08,0
+TechEssentials,,2011-10-15,0
+ChessStudy,,2011-10-11,56
+underwaterchess,,2011-10-08,1
+templechess,,2011-10-06,2
+Eastsidechess,,2011-08-18,18
+ACCC,"SubReddit for the All City Chess Club hip-hop collective.",2011-08-13,1
+chessgames,,2011-05-02,6
+chessprogramming,,2010-11-25,204
+Redditchess,,2010-08-10,50
+chessclub,"Learning chess online can be difficult due to the lack of dialogue. Over the board, the stronger player will often give the weaker player advice. This just doesn&#039;t happen in online chess. This is a place for chess players to request or offer instructional games. Are you rated 1,000 and hoping to get a few pointers from someone rated 1400+? Ask and ye shall receive! Rated 1,000, wanting to give back to the community, and get some experience teaching? I&#039;m sure a player rated 800 will gladly accept",2010-04-15,44
+chessbrain,"Do you feature some monetary pressure in the middle or the ending of the month? Asking for associates or relations does not appear useful? ",2009-11-02,4
+ghrum,"Ghrum is exactly what the name suggests. Pronounced Gh (from the throat) - rum, it embodies everything and anything that is well ghrum i.e bad I guess. Ghrum can be used as a very versatile word to create other words such as &#039;ghrumanol&#039; &#039;ghrumtastic&#039; &#039;ghrumtacular&#039; &#039;ghrumchess&#039; etc.",2013-04-01,1
+ChessTheGathering,"A place to discuss the rules/mechanics of &quot;Chess the Gathering&quot; (working title) a prototype from Misfits Attic &amp; stuff",2013-03-12,74
+ChessTheory,,2012-12-15,3
+Chesscom,"A reddit for members &amp; friends of Chess.com, or for anyone who loves chess! Featuring daily puzzles, chess news, articles, and the latest buzz about what&#039;s up at the world&#039;s #1 chess site!",2013-02-27,161
+ChessCirclejerk,,2012-12-18,53
+ChessRSost,"Gold elo",2013-05-25,1
+LearnChess,"Here at /r/LearnChess, We provide a community to learn chess and improve your chess game.",2013-05-31,431
+HeWhoPunchesSpoderman,"Mod pls",2013-03-09,3
+Improvingchess,"Idea behind commencing this subreddit is to help beginner to improve their chess. Chess Experts are more than welcome for their advises but please keep in mind : Opinion or Views should be fairly simple so can be understood because beginner or kid might not be able to grasp it due to lake of chess knowledge.",2013-04-06,285
+KarmaNihilism,"Like chess without rules.",2013-01-13,1
+GroupChess,"Collaborative chess.",2012-12-09,120
+chessimprovement,"Realistic techniques and guides to improve your chess strength.",2013-04-06,1
+voyageauvietnam,"Depuis peu, le Vietnam ouvre ses portes, d&eacute;voilant aux voyageurs la beaut&eacute; de ses paysages et la richesse de son patrimoine culturel. Alors que s&rsquo;estompent les immages obs&eacute;dantes d&rsquo;un pays d&eacute;vast&eacute; par la guerre, vision que le cin&eacute;ma et la litt&eacute;rature n&rsquo;ont cess&eacute; d&rsquo;alimenter, les visiteurs d&eacute;couvrent un pays d&rsquo;une grande diversit&eacute; g&eacute;ographique et ethnique ainsi qu&rsquo;une civilisation vieille de plus de 4 mille ans.",2013-03-01,2
+Chesshelp,"This subreddit is designed for people who want help with chess, be it in the opening phase of the game, where highly theoretical battles need to be fought, or learning new endgame techniques to improve your play in the final part of the game!",2013-04-23,125
+chesscoaster,"Caught brushing your teeth on Splash Mountain?  Perhaps playing poker on Space Mountain.  Or were you that guy playing chess on the Log Flume?",2013-06-28,578
+ComputerChess,"Chess engines, hardware, tournaments and matches.",2013-06-14,2462
+EasyChessProblems,"Problems in this subreddit are suitable for players graded up to 1300.",2013-06-24,6
+Chessie,"A place to discuss Chesapeake Bay Retrievers",2013-06-20,170
+CHESSesports,TBA,2013-07-05,3
+ChessMMORPGBugs,"Report bugs.",2013-06-29,0
+ChessMMORPG,"The game.",2013-06-29,3
+HudsonValleyBusiness,"A place to share what&#039;s going on in the Hudson Valley business community. Businesses should be based in Westchester, Putnam, Rockland, Orange, Dtuchess, Ulster, and Sullivan Counties. Please limit self promotion to a minimum but please feel free to share news about your business community. ",2013-07-27,121
+Shizmoo,"KUNGFUCHESS  SUMO VOLLEYBALL",2013-08-22,1
+Kungfuchess,"When I win the lottery I shall be bring back this site.  And advertising, and marketing, and we will get 100+ ppl online again!",2013-08-22,3
+ChessPieces,,2013-09-19,4
+MNChess,"A subreddit for people in Minnesota interested in Chess, for meet ups. casual games, and discussions. ",2013-09-19,3
+sunydutchess,"The unofficial subreddit for the student and faculty of Dutchess Community College in Poughkeepsie, New York. The school is also known as DCC and SUNY Dutchess.",2013-09-24,1
+ChessUniversity,,2013-10-01,171
+BasketballPlaybook,"Basketball can be a game of Chess. This subreddit is dedicated to the X and O&#039;s of Basketball. It&#039;s about the coaches and the players running the plays. It&#039;s not only about the talent but the IQ.",2013-10-05,36
+AnarchyChess,,2013-10-24,72743
+playchessincomments,"Playing chess in the comments",2013-10-31,58
+ChessnutsCorner,,2013-11-05,0
+chessbattles,"chess games between redditors",2013-11-09,40
+chessai,"A subreddit for those interested in chess AI and algorithms/methods used in programming chess computers.",2013-11-17,122
+slaiynchess,,2013-11-16,4
+goatsofskype,"SchemingMind is a privately owned international correspondence chess club founded in 2002. Most games and tournaments are played on a correspondence chess server owned by the club for this purpose.",2013-11-20,8
+chesstournaments,"A subreddit for the sake of organizing online chess tournaments between redditors.",2013-11-25,92
+chessone,,2013-11-27,0
+RealChess,,2013-12-01,4
+TrueChess,,2013-12-01,7
+Battlechess,"This is the official subreddit for the game Battlechess. It is currently in development.",2013-12-02,2
+chess24,chess24,2013-12-13,113
+SeriousChess,,2013-12-14,11
+ATTAEBROTTIER,"DECOUVERTE  DE LA RICHESSE AFRICAINE A TRAVERS SA VERDUE SON DESERT SES ARTS SES PRATIQUES RELIGIEUSES SA PUISSANCE INTELLECTUELLE A TRAVERS SES ENFANTS",2013-12-20,2
+chessmillgames,"Hello all and welcome to my new Reddit page on here I will be sharing all my youtube videos and general chat for you guys and gals to enjoy. Thanks For Watching",2013-12-24,2
+chessbottesting,"For testing bots for r/chess",2014-01-07,14
+chess960,"Dedicated to chess960",2014-01-15,220
+movieqq,"life of a king movie life of a king movie trailer life of a king movie wiki life of a king movie true story life of a king movie based on life of a king movie cuba gooding jr life of a king chess movie life of king david movie watch life of a king online free watch life of a king online watch life of a king",2014-01-26,3
+nettledutchess,nettledutchess,2014-02-05,0
+365DaysOfChess,"I will play a game of chess a day. Analysis my games and record all data. In hopes that I will improve. ",2014-02-09,4
+aerena,"&AElig;RENA is a tactical, hero-centric combat game with a unique &AElig;therpunk setting. Command formidable Champions, employ powerful &AElig;ther Shells and challenge your brain - not your fingers - in strategic, turn-based yet fast paced combat. It&#039;s like speed chess meets LoL in an &AElig;therpunk world.",2014-02-10,29
+secretchessclub,,2014-02-17,1
+teamchessclub,"A place for team chess club to talk",2014-02-20,3
+redditplayschess,"Well, one person = one move.",2014-02-27,95
+ms2underground,"A place to gripe about how chessedick some 3&#039;s or 4&#039;s are and how you can ef with them just a tad cuz it&#039;s funny sh!t. This is our time bros and gals, ef the 4&#039;s and 3&#039;s, the 2&#039;s shall remain!",2014-02-28,1
+EpicBoners,"we love boners, and chess",2014-03-05,1
+ScumbagSamuel,"This is the place where people can vent about what a scumbag Samuel Chessler ",2014-03-15,1
+DaMysteryOfChessboxin,"What is the mystery of chessboxin&#039;?  Subreddit where you can post anything you want. ",2014-03-16,0
+petersaakov,"The one and only true messiah. He even beat Jesus in a game of chess. ",2014-03-18,4
+PicturesAndGeekLife,"women,famous,celebrity,pics,gamers,pc,consoles,chess,tv",2014-03-19,2
+ChessticularFortitude,"My Chess Improvement",2014-03-20,0
+zenchess,,2014-03-20,1
+SkillHacking,"/r/SkillHacking is a subreddit based around the idea of finding the &quot;Minimum Effective Dose&quot;, or the absolute straightest, purest path for developing competence or working skill in any physical or mental skill, from parkour to eidectic memory to chess to art to dance and everything in-between.",2014-03-27,4
+WomenPlayingChess,"A superb blending of /r/gentlemanboners and /r/chess. News items, pictures, and NSFW pictures about women playing chess.",2014-04-03,194
+HudsonValleyMeetups,"Do you live in the Hudson Valley Region? You don&#039;t know? Well... this region include the counties of Dutchess, Orange, Ulster, Sullivan, Columbia, Greene, Rensselaer, and Albany, just to name a few! Are you interested in making new friends who share your interests? Are you interested in exploring sights unseen with new people? If you answered yes to the following, then this place is right for you!!!",2014-04-20,79
+cutegirlsplayingchess,"A sub dedicated for cute girls who play chess",2014-04-26,465
+Copyandbeachessskype,"Bhuhojbnjiiojonnhihinuoiumunipibouin   BEACH",2014-05-01,1
+2000chess,,2014-05-06,678
+TheChessUniverse,"A subreddit dedicated to posting about chess.",2014-05-10,3
+Progress_of_clearpiss,"Smoking, Chess, Coding, Math, Mastrubating, Reading, Writing",2014-05-24,9
+betterchess,"Betterchess is a forum in which we together aim for improving our own and each others chess play. This will primarily be done through analysing our games and our chess logic/reasoning as well as enlightening each other about particularly important patterns and other general tips. (To be continued.)",2014-05-26,516
+betterchess_csstest,"A test-ground to style another sub-reddit.",2014-05-29,1
+JebChess,"Biggest Jebrim and JebChess circle jerk  ",2014-06-11,5
+Analyzemychessgame,"Welcome to /r/analyzemychess game, where you can submit your chess game and receive feedback from other players to better your play. All play levels welcome.",2014-06-12,13
+PawnToC4,"A subreddit dedicated to play chess long distance... the old fashioned way...",2014-05-30,3
+FICS,"The Free Internet Chess Server Subreddit.",2012-05-25,20
+Alekhine,"This subreddit is about Alexander Alekhine, the 4th world chess champion. What makes him special is that he took Capablanca&#039;s crown (Capablanca is considered the chess genius of all time). Alekhine is the pioneer of the serious chess preparation for world championship match. According to Capablanca, alekhine knows all capablanca games and studied it.",2014-07-05,3
+ChessSouls,"A sub-reddit for the Chess-Souls fan-made gamemode, first made by Eirin Yagokoro, for Dark Souls 2.  Will include both PC, Xbox 360 and PS3 players (If I manage to get enough players to join from all three platforms). ",2014-07-07,21
+smackthat9876,"about my youtube channel and chess program (written in c++), Echo v 0.8 soon to be released (beta).",2014-07-07,2
+chessopenings,,2014-07-12,139
+ChessPuzzles,"A place to share and solve chess puzzles.",2014-08-02,2526
+ChessOnline,,2014-08-04,1
+RPGDiceShaming,"When all we need is that clutch 20 and the Chessex Gods decide to give us a crit fail instead. How did your die miss the mark this time?",2014-08-15,20
+cool64chess,Testing!,2014-08-17,1
+Ches,"For all those people who occasionally spell chess wrong.",2014-08-22,7
+ca_chess,"We like to drink and we like chess...faggot",2014-08-30,21
+correspondencechess,"This subreddit is for those who want to play a game of chess without sitting down at a table with somebody else but can get the same satsisfaction with as much time as they need to make their move.",2014-08-31,6
+YifanHou,"Yifan Hou: Women&#039;s World Chess Champion",2014-09-18,1
+ShittyChessMemes,,2014-10-26,15
+catholiccentralnovi,"Welcome to /r/detroitcatholiccentral! This is a sub for discussing all things cc, wether that be football or chess club, it can be discussed safely here. Organize meetups with your friends, or simply discuss the happenings and other school related events. Please read the sidebar for the rules.",2014-09-25,8
+ChessForChumps,"A subreddit for people who don&#039;t know how to play chess!",2014-09-25,3
+chesslangs,"We play chess and make langs!",2014-10-19,7
+thechesspill,,2015-03-15,1
+chessconstructs,"Everything to do with chess problems or puzzles. Even if you composed or constructed them yourself.",2016-06-04,3
+chessproblems,"Chess puzzles &ndash; Try to solve our Chess Puzzle of the Day. Updated at least! once a day &ndash; Do you like chess puzzles? Improve your chess with our Chess problems. The goal of all chess puzzles is to checkmate your virtual opponent no matter what moves they make!",2014-10-02,85
+WatchesShowerThoughts,"Ha Ha, Derp, or Deep, please share.",2015-01-26,3
+ChessBabes,,2014-10-26,5
+blackmusichistory,"Devoted to the pioneers of independent music in America such as Henry Stone, Leonard Chess, Ewart Abner, the Bihari Brother, the Mesner brothers, Don Robery, Herman Lubinsky, Sam &amp; Hy Weiss, George Goldner, Morris Levy, and all the great labels that were created in America starting around 1946 and continuing through today with amazing music that has lasted generations and will continue to do so.",2014-10-18,8
+RegimentalChess,,2015-05-04,3
+MTGChess,,2014-12-16,1
+stockfishchess,,2014-11-05,8
+lichess,"A place to discuss the wonderful chess site of LiChess.org!",2014-11-14,2077
+Chesspics,"Still images to do with chess. No videos, no NSFW",2014-11-12,9
+TurnStrategy,"A subreddit to discuss anything related to your favorites turn-based games. And share them with other turn-based games fans. It can be chess, Magic the Gathering, Hearthstone, Scrolls. Any game in the genre.",2014-11-15,4
+bughouse,"Bughouse is team chess: two boards with two teams of two players each. Normal rules of chess apply, but when pieces are captured, they are given to your teammate to place on their board as their own! It&#039;s all the fun of chess with the added dimensions of placed pieces, time strategies, and teamwork!",2009-10-25,51
+Foricisme_Empire,"Nous suivons le ma&icirc;tre et son plan pour l&#039;unification humaine. Nous voulons atteindre la paix mondiale et ainsi retourner dans un &acirc;ge de richesse et de prosp&eacute;rit&eacute; pour tous. Notre id&eacute;ologie est le Foricisme et nous voulons sont empire.",2014-11-18,0
+ChessMasterRace,"Chess for Master Race",2014-11-21,1
+CCChessClub,CCChessClub,2015-01-06,33
+chessboard,"This subreddit is for the fashion lovers. All the news and fashion photos  are welcome.",2015-10-04,3
+chessbeginners,"The subreddit for all new chess players. Come here to learn the game, some basic strategy, or practice a bit!  More experienced players are also welcome! Feel free to help the beginners.",2014-12-12,45695
+TheOctagonTheory,"The Octagon Theory (TOT) is a completely original Sci-fi, turn-based, strategy game that is played on an octagon-shaped board. It&#039;s completely different from but also in the style of board games like Othello (Reversi), Checkers, and Chess.",2014-12-14,5
+test12121313,"A group of refined, Elite, gentlemen who delve in non brutish activities such as Golf and Chess. This Elite group is known to have over 300 confirmed kills in the Reddit Army. Armed with superior knowledge and adept scientific skills these people are not to be messed with. Posts should intrigue interest and reflect common interests.",2014-12-22,1
+fingersnaps,"a game more intense than football, longer than monopoly, and wittier than chess",2014-12-24,7
+chessa22,"Chat about your favorite worlds, and even request or offer crowns and/or codes for membership. ",2015-01-01,0
+chessplays,"This is a subreddit specially done to facilitate the playing of /r/chess against engines or people (Like FM and NM, maybe one day Magnus Carlsen! :D)",2015-07-27,50
+smackmybishop,"Chess and psychedelics",2015-01-06,2
+beginnerchess,"Chess news, tactics, advice, and other content for players rated 1500 or less. ",2015-01-06,47
+GamingMillions,"Bet $5, $10, $20, or more! Bets are available in Team Fortress 2, Dota 2, Warframe, War Thunder, World of Tanks, League of Legends, and Chess! All contests are online and Gaming Millions only charges $1 per challenge. No matter how much is wagered, only $1 per challenge! If you would like to wager more money that is displayed, simply request it, and a custom challenge can be created for you. ",2015-01-08,3
+BeatTroyAtChess,"Troy plays chess at IAG, and I will beat him",2015-01-16,3
+SpringPopoRWQChesse,"SpringPopo:  http://springsonic.deviantart.com/  https://www.youtube.com/channel/UCusv6JliIWxoaFndqoUOAuw  Shadow Cheese:  http://mariosonic500.deviantart.com/  https://www.youtube.com/user/mariosonic500",2016-03-12,4
+WatchesDadJokes,"A companion to /r/WatchesShowerThoughts, this subreddit is devoted to bringing you the best worst jokes about watches!",2015-01-26,1
+free_3D_Chess_Game_c,"3D Chess Game cheat hack 2015 February Free Download (Mediafire download link)  Features: Add unlimited resources Resources Works with PC, Mac OS, all browsers and all mobile devices(Android iOS). Automatic check for new updates No Root/Cydia/Jailbreak Needed Built in Proxy support (100% Undetectable, 100% Safe)  How to use 3D Chess Game cheat hack Tool?  it is really easy, simply follow the stepsgiven and you can enjoy its features in no time!.  1) Download our 3D Chess Game cheat ",2015-02-07,1
+3D_Chess_Game_cheat_,"3D Chess Game cheat cheat 2015 February Free Download (Mediafire download link)  Features: Add unlimited resources Resources Works with PC, Mac OS, all browsers and all mobile devices(Android iOS). Automatic check for new updates No Root/Cydia/Jailbreak Needed Built in Proxy support (100% Undetectable, 100% Safe)  How to use 3D Chess Game cheat cheat Tool?  it is really easy, simply follow the stepsgiven and you can enjoy its features in no time!.  1) Download our 3D Chess Game chea",2015-02-07,1
+Chess_Free_cheat_hac,"Chess Free cheat hack 2015 February Free Download (Mediafire download link)  Features: Add unlimited resources Resources Works with PC, Mac OS, all browsers and all mobile devices(Android iOS). Automatic check for new updates No Root/Cydia/Jailbreak Needed Built in Proxy support (100% Undetectable, 100% Safe)  How to use Chess Free cheat hack Tool?  it is really easy, simply follow the stepsgiven and you can enjoy its features in no time!.  1) Download our Chess Free cheat hack from",2015-02-07,24
+shahmat,"A sub-reddit to discuss Shah Mat, a chess simulator being developed with the intent of it being used with Oculus Rift hoping to be delivered on Steam.  This is the first major development undertaking by /u/Nagash.  Please provide feedback, preferably constructive.",2015-02-11,2
+System27,"Society is not broken, nor is it stable. System 27 is for those who wish to take what they want, build what they want, and become what they want. This is not for artist or engineers. This is for those who want power. Those who want to play chess on a global scale. ",2015-02-10,2
+shogiR,"将棋類（将棋、チェス、どうぶつしょうぎ、象棋など）に関する話題を扱います。  /r/shogiR is a community for anything related to Shogi (Japanese chess) or similar board games (chess, xiangqui, etc.) in Japanese.  ",2015-02-24,253
+ChessEvolved,"ChessEvolved is an advanced version of chess. With all the classic pieces you know and love there are also additional units that you can make your set out of!  Currently in early beta, check it out at https://apps.facebook.com/chess-evolved/",2015-02-26,23
+theartoflearning,"The Art of Learning is a subreddit dedicated to anyone and everyone passionate about learning, whether it&#039;s languages, sailing, martial arts, sky diving, knitting, body building, chess, whatever! I wanted form a subreddit where likeminded people interested in the art of learning could gather, share stories, experiences, articles, methods, etc. to inspire and motivate everyone with a passion for learning.",2015-03-02,433
+chessleagues,"Chessleagues is a way to organize competitive chess on Reddit, and to go over games played during these competitions.",2015-03-05,44
+ChessJitsu,"5v5 BJJ",2015-03-07,20
+prism_chess,,2015-03-10,13
+prismchess,a,2015-03-10,1
+tagprochess,"The TagPro chess team",2015-03-21,15
+FritzbyChessBase,"Fritz, chess, e4, GM ",2016-03-21,4
+vanessawestcchess,"A full description of everything that you need to know about Vanessa West the Chess Player",2015-03-27,3
+chesseventvods,chesseventvods,2015-03-31,1
+RedditChessLeague,,2015-04-13,8
+DozsaThoughts,"The thoughts of Reddit&#039;s favorite drunken master of chess.",2015-04-14,1
+ChessieKay,"British pornstar and escort Chessie Kay!",2015-05-03,11216
+chesscod,"personal link/note storage",2015-05-02,1
+shittychess,"Post shitty chess games here",2015-05-19,61
+chessmatchups,"a reddit to arrange a time, place and rating range.  then post a link t the finished game and analyze and comment.",2015-05-25,34
+grilledchess,,2015-05-29,1
+chessclubWoW,"A gang of goons.",2015-05-28,4
+A3C2,"I couldn&#039;t find any adult chess clubs or groups or anything of that nature, so this is the beginnings of one. We are not by any means rated or recognized by the USCF and do not play rated games.....at least not yet.",2015-06-03,8
+AmazingStrangers,"Normal Bob, 41, whose given name is Bob Hain. His professional name is Normal Bob Smith; he is a graphic artist who lives in Bushwick, Brooklyn,In Union Square, Mr. Hain is not interested in the Greenmarket or the art vendors, or the grandmaster chess players taking on all comers for $10 a game. This is all too normal. He is interested in the regulars who consider the park their living room,",2015-06-03,24
+atomicchess,"A subreddit dedicated to the atomic chess variant.",2015-06-05,21
+chesscheating,"Well. Basically grab a chess calculator and post the results",2015-06-18,7
+utrgvchess,dfgh,2015-06-22,1
+ChessWithFriends,"Subreddit to find other Chess with Friends players, discuss all things chess.",2015-06-25,35
+ChessGameAnalysis,"This sub-reddit is dedicated exclusively to analyzing your chess games. You can submit a game and solicit feedback from other players, or you can help others with their analysis.",2015-07-02,72
+4Dchess,"HAHA CHESS",2016-07-22,7
+ChessFans,,2015-07-23,38
+SpeedChess,,2015-10-14,1
+minichess,"There are several chess derivatives around with smaller boards than 8x8 squares. Sometimes, they comprise pawn double leap, en passant or special rules for castling.",2015-08-25,2
+ChessEvolvedOnline,"Chess,kongregate",2016-05-09,22
+SimplyChess,,2015-09-13,1
+dmcb,"Da mystery of chessboppin",2015-09-12,2
+sofloantonio,"Everyones been playing checkers, but ive been playing chess for years♛♔  [GONE SEXUAL] [IN THE HOOD]",2015-09-24,26
+beanandcheese,"Hello and welcome to the hub for all your Bean and Cheese burrito needs! Here we will discuss what your favorites are, tips for making them at home, and just generally, what makes Bean and Chesse burritos so damn good! ",2015-09-28,3
+Communisme,"&quot;Communiste, parce que nous voulons la mise en commun des richesses et des t&acirc;ches. Libertaire, parce nous refusons tout pouvoir institu&eacute;, toute autorit&eacute; impos&eacute;e, toute m&eacute;diation inutile. Communiste et libertaire, parce que nous pensons que la libert&eacute; commune est la condition n&eacute;cessaire &agrave; l&rsquo;&eacute;panouissement de la libert&eacute; de chacun. Internationaliste, enfin, parce que cela ne prend sens qu&rsquo;&agrave; l&rsquo;&eacute;chelle de la plan&egrave;te enti&egrave;re.&quot;  *Oiseau-Temp&ecirc;te*",2013-12-06,163
+StrategicGames,"This is a community that focuses on the discussion of any game that is deemed &quot;strategic&quot;. I.e.: Chess, Checkers, Age of Empires, Civilization 5, or possibly a game that you created.",2015-11-11,3
+Netketeer,"Netketeer is currently a Word Press Commenting Plugin focused on User Ratings.  The User Comment Rating System is based off of the Elo Chess Rating system.",2015-12-04,2
+DutchessKamile,,2016-03-17,1
+ChessTraining,"If you wish to learn about chess or you currently play chess and you wish to improve, this is the sub for you.",2016-09-18,5
+4DimensionalChess,"Keeping track of all the games Donald Trump is a master of, despite his SHORT FINGERS holding him back",2016-08-16,3
+chessmen,,2016-01-07,0
+WeirdChess,"Anything you consider weird related to chess. Strange-looking games. Unusual occurrences. Rarities. Unsolved mysteries. You get the idea.",2015-12-31,5
+Maalac,"Martin Shkreli  is a PATZER!  to prove it, I will play Martin Shkreli  and as many as 20 of his friends to prove that he is a Patzer and should not be associated with Chess in any way.  ",2016-01-26,9
+quantumchess,"all the news and strategy about quantum chess",2016-01-31,27
+chess_streams,,2016-11-17,53
+TriValleyChess,"This sub is for local chess lovers and people that want to play more. Maybe you will find a rival here!",2016-02-07,3
+ayyydonkey,"Sofloantonio is a man that makes shitty videos and steals content..................thats all  And this sub reddit is dedicated to his chess playing skills",2016-02-12,1
+ThinkCentral,"A subreddit for people who enjoy and want to gain knowledge. Things posted here could range from chess strategies to the basics of Latin. Any thoughts, ideas, or philosophical questions that provoke thought are welcomed.",2016-02-20,22
+mfochess,"Subreddit dedicated to mrfixitonline.com&#039;s chess community since MFO has expired.",2016-02-22,5
+Chessable,"This forum is for the discussion of  Chessable.",2016-02-21,16
+darkchess,"Discussion about darkchess.",2016-03-26,1
+chessCheat,"A site devoted to chess cheating. Report players, cheats, anything you like, everything is allowed.",2016-03-06,9
+RTChess,"Community for the online non-turn-based version of chess.",2016-03-06,5
+Ramsaythemansay,"asmo sucks at chess",2016-03-10,3
+chessbrah,,2016-04-02,98
+JimmyMorton,"This sub is dedicated to Jimmy Morton, Pro Golfer and Chess Master.",2016-04-02,5
+ArbitraryDebates,"Arbitrary debates consisting of anything from cereal to chess.",2016-04-03,0
+AntiChess,,2016-04-03,10
+ChessieMoore,"Vintage porn with Chessie Moore !!!",2016-04-03,2
+JesterPunk,"You know steampunk and cyberpunk? Well I present to you... Jesterpunk! This subreddit is for discussing things that feel like they have the jesterpunk anesthetic such as, for example: chess, chessboards, checkers, checkerboards, Clowns, Harlequins, and of course, Jesters! ",2016-05-01,8
+chessconspiracy,,2016-04-11,7
+Ultrachess,,2016-04-11,1
+Makruk,"For those of us Chess refugees who love the more strategic and manageable game from the Far East.",2016-04-17,6
+chessbypost,,2016-04-13,3
+bohemianhexachess,"This is a game which was designed in school and is fun.  Enjoy!",2016-04-26,3
+ChessBoards,"Post cool interesting and unique chessboards.",2016-07-15,212
+4d_chess,"cataloging all of the twists on &quot;4D Chess&quot;",2017-05-02,19
+chessgo,"Because it seemed rational to put chess pieces on a go board... or go stones on a chessboard.",2016-06-07,2
+chessstreams,"There&#039;s a lot of chess. It&#039;d be nice to have a single place to link to all the matches you want to watch. ",2016-11-15,100
+ChessNetwork,"Welcome to /r/ChessNetwork, the subreddit dedicated to all things Jerry, his channel, and chess in general! ",2017-01-14,41
+chessgossip,chessgossip,2016-10-04,1
+rchess,rchess,2016-10-13,1
+bouldercardshears,"Go here to discuss games. Whether it be Chess or Battlefield, CS:GO or Poker, it can be discussed.",2016-09-05,1
+xianqi,"A place to discuss xian qi, the Chinese form of chess. I will put effort into this sub if enough people seem to be interested.",2016-09-07,6
+chesstempo,,2016-09-09,3
+chesstactics,,2016-09-09,15
+Chesthetica,"All about the world&#039;s most advanced automatic chess problem composer, Chesthetica.",2016-08-16,1
+chessjokes,"A sub for chess jokes of any kind (puns encouraged).",2017-01-22,14
+4DIntergalacticChess,,2016-07-25,0
+pigeonchess,"&quot;Arguing with idiots is like playing chess with a pigeon.  No matter how good you are, the bird is going to shit on the board and strut around like it won anyway&quot;",2016-07-02,5
+nsfw_chessboard,"The sexier and hotter chessboards of the internet.",2016-07-13,8
+shogiworld,"Shogi (将棋 shōgi?) (/ˈʃoʊɡiː/, Japanese: [ɕo̞ːɡi] or [ɕo̞ːŋi]), also known as Japanese chess or the Generals&#039; Game, is a two-player strategy board game in the same family as Western (international) chess, chaturanga, makruk, shatranj, janggi and xiangqi, and is the most popular of a family of chess variants native to Japan. Shōgi means general&#039;s (shō 将) board game (gi 棋). (source- Wikipedia)",2016-07-09,115
+ChessForGoats,"The Chess for Goats fund works not only in teaching goats how to play chess, but also delivering them the supplies they need to play this wonderful game. And yes, we mean goats the animal.",2016-08-27,2
+4HeadachesStamford,"When conventional medications fail to stop a migraine or bad headache what are your options? Darien Chiropractor Brian McKay offers Laser therapy to numb the sphenopalantine ganglion located near where the eye meets the nose. This method is non-invasive when compared to injecting through the nasal cavity. Results are felt within a few days.",2016-10-27,5
+ChessPigeons,"You make an amazing, well written argument with sources and detailed references, all served on a silver platter. Then the unspeakable happens: your opponent takes a crap on your 4D chessboard.",2016-10-28,0
+chessgirls,"a community that appreciates the beautiful women who play the beautiful game",2017-06-13,12
+ChessBederkesa,"Open chess meeting in Bederkesa, Germany (nearby Bremerhaven). You can post all about chess and around.",2016-11-05,3
+ChessIsBored,"Just something so I can post stuff",2016-11-06,15
+Raumschach,"Raumschach, and old and obscure 3D chess game. For fans of the game, people looking to start playing, people looking to make boards, or anyone looking for something fun and interesting.",2016-11-08,6
+Chessaria,"Chessaria, the turn-based tactical game that combines an epic adventure and the strategic intensity of chess! This sub is a place to meet/greet/share and play with others.",2016-11-23,17
+ComboChess,"A new strategic way to play the classic board game chess.",2016-11-24,12
+chessybites,"Welcome to the cheesiest place on reddit. your job is simple, you post anything that is cheesy and we will choose it&#039;s appropriate cheese type. ",2016-12-01,1
+chessvideos,,2016-12-22,36
+10WordStories,"Creating a story using the fewest words/terms possible.  Examples: Underwear&mdash;check. Fake passport&mdash;check. House key&mdash;left behind. -Megan Evans  He came home in an envelope. Name, rank, serial number. -Nancee Beal  School bus. Plenty of seats. No place to sit. -Will Chessor  The ultrasound technician hesitated, frowning. &ldquo;Let me get the doctor.&rdquo; -Leah Bailey  Her hijab. Her cross. They became one. An unexpected couple. -Antigoni Gaitana ",2016-12-09,3
+BayviewChessClub,"Hello! This is the subreddit for the Bayview Chess Club. Here, you can find information on upcoming events, tournaments, notices, and general information about our club.",2016-12-08,2
+chessgonewild,,2017-02-26,24
+PickEmUp,"Find a local pickup game to join! Sports may include, but are not limited to: Baseball/Softball, Football, Futbol (Soccer), Hockey, Volleyball, Basketball, Golf, et cetera.  Does not necessarily need to be a *team* sport/game, you may choose to meet up for Skateboarding, Cards Against Humanity, Chess, Checkers, Video Gaming, et cetera, et cetera. If it&#039;s a game, go out, make friends, and play it!",2017-01-15,33
+TheChessGames,"This community is devoted to The Chess Games Trilogy I am writing ,a young adult fiction fantasy series following a young boy, Michael, on his quest to unite the warring 2 kingdoms. The first book is titled, The Hunger Games, Beauty Of The Sicilian.",2017-01-20,4
+Watchesslee,"FULL. HD. VUDLOCKER. &quot;Sleepless 2017&quot; WATCH. MOVIE. FULL. STREAM. ONLINE.",2017-01-20,1
+Watchessplit,"FULL. HD. VUDLOCKER. &quot;Split 2017&quot; WATCH. MOVIE. FULL. STREAM. ONLINE.",2017-01-20,2
+FuckChess,"For people who HATE HATE HATE chess",2017-02-15,3
+MultidimensionalChess,MultidimensionalChess,2017-02-02,1
+chess_sandbox,"chess sandbox",2017-02-04,11
+bencheatsatchess,"This sub is an official sister sub of /r/chapotraphouse2. Please post all hoggs in the official discussion page.",2017-02-15,21
+Correspondence_Chess,"A subreddit for playing chess through reddit comment sections.",2017-04-12,29
+warpaintgame,"Warpaint is a turn based strategy where you command an army of dwarves and fire catapults.  Your dwarves attack and capture pieces similar to hexagonal chess. Use catapults to assault castle walls and break open gates.  It was designed to be an improvement to tabletop wargames like chess, Warhammer, and siege. It&rsquo;s easy to learn, quick to play, and manages to be tense at a relaxed pace.  Other features include ranked matchmaking, army painting, and VR support. ",2017-03-07,5
+enpassant,"There already exists a big chess community on r/chess and we don&#039;t plan to compete with them. This is an area dedicated to advanced players who want to discuss games (with commentary), openings (plans, move orders) or chess-related topics (chess engines, championships).",2017-03-06,8
+yusupov,"Yusupovian&#039;s unite!  This is a community dedicated to those interested in or working through the nine chess workbooks created by GM Artur Yusupov.  Discuss tactics, get help understanding exercises, etc.",2017-03-11,3
+TodayIAmALegend,"Inspirational stories of how you conquered a game of chess against a Grand Master, beat the impossible or now live in infamy? Tell us your story!",2017-03-12,1
+ChessinHindi,"Chess material in Hindi only",2017-05-13,2
+drexelchess,"Chess and Stuff for people at or around or affiliated with Drexel University",2017-05-25,9
+GnuChess,"GNU Chess is a free software chess engine",2017-04-15,89
+GameOfChess,"thegameisbeginning. areyoupreparing",2017-05-26,0
+DiamondChess,"Diamond Chess is a new take on the classic game of chess featuring a 7x7 hexagonal board with 5 pawns and one of each major piece for both sides. The idea came from improving upon the aspects of a ",2017-06-21,4
+ChessBooks,"Chess book reviews, recommendations, news.",2017-06-23,1629
+chessmemes,"Enjoy Chess? Come and enjoy chess memes.",2017-06-30,6373
+MENSO,"No Chess, No Classical Music, No Stimulating Cerebral Discussions.  But if you have a burger that looks like Abraham Lincoln... this is the place for you!!!",2017-07-08,0
+nsfwchess,,2017-06-04,2
+chesswithabot,"now you can play chess though reddit!",2017-07-12,4
+obedient_dutchess,"reserved for obedient_dutchess  Is that you? You can request ownership [here](https://www.reddit.com/message/compose?to=%2Fr%2Fgonewild).",2017-07-19,2
+tcec,"Chess on computers",2017-11-02,14
+mindsports,"Decentralized social platform for game hosting and token betting for intellectual sports such as Chess,Go, and Poker. Telegram: http://bit.ly/mindsports ",2017-10-15,2
+estofthechess,"A personal Sub for my new 30 day commitment to learning to sketch and doodle.",2017-09-02,4
+ShittyChessMetaphors,"Reddit is like chess: if you play it, you&#039;re a virgin",2017-10-12,2
+oldagetacticsonline,"Oldage: Tactics Online is an online strategy game based on chess. Choose your units and send them to battle to protect your king or queen.",2017-10-22,14
+ChessCPPS,"A collection of chess constructs, puzzles, problems and studies.",2018-08-17,17
+ShittyAnarchyChess,"Ideal place for people trying to troll /r/chess or posting things with no value or humor of any kind",2017-08-15,9
+PlayMe,"Tipping the balance into a win-win game.  nsfw chess game play girl woman celebrity model photography art porn softcore hardcore",2017-07-10,1314
+tacticstime,"A subreddit dedicated to chess tactics puzzles.",2017-11-29,110
+TurnBasedTactical,"Turn Based Tactical genre - &quot;If it doesn&#039;t look like chess more likely it isn&#039;t a turn based tactical game&quot;. They all have 4 game mechanics in common: unit organization (for example a grid, radius), positioning and movement of all units (be able to Back-stab, Flank and Bait units), turn based (or pausable to issue movement/position commands) and have a tactical battle/encounter layer with the elements above.",2017-11-10,2000
+OverwatchEssentials,"Gets you all the important information you need related to the development of Overwatch, with none of the fluff (no POTGs, fanart, game suggestions, etc).",2017-07-28,2
+Ojds,"A silly chess-like game.",2017-08-02,1
+Purple_poison,"u/purple_poison is the inventor of chess and the one true king of Reddit! Here we gather to praise his glory!",2017-08-03,12
+utahchess,,2017-08-08,1
+TheWitchesStew,"Post pictures, recipes, videos, talking about the witches&#039; stew (aka gross potions). Throw some nasty shit together into a &quot;soup&quot;, &quot;salad&quot;, &quot;stew&quot;, breakfast, lunch, or dinner and post it for everyone to see. We want to see concoctions so disgusting that it would make a witch herself die from drinking it or inhaling its odor. ",2017-09-01,9
+birdofchess,,2017-08-13,1
+Shareyourchessgames,"Share and talk about your chess games here! Anything to do with chess can be posted here!",2018-12-20,1
+breitbartgrues,"This subreddit is dedicated to the mental gymnastics Breitbart News and its commenters have to perform to believe that our POTUS is playing 4-D chess and totally winning. Please share screenshots of the most blatant/delusional lies and help us perform our own mental gymnastics to empathize with a world-view where up is down and right is left.",2018-12-19,1
+amateurchessclub,"Discussing the actions and motives behind the world&#039;s most important chess players.",2017-08-24,5
+xLog,"I love thinking.  Practical, theoretical, chess-related, fact, fiction, and more!  Expect Music, Jokes, STEM, and much much more.  Enjoy!  ALSO ... I apologize.  The first few weeks of this site will be pure chaos.  I&#039;ll be posting probably 5+ things every day if not more.  Finally the wiki is in its infancy ... Feel free to check it out.  xLog Discord: https://discord.gg/kX6RefJ",2018-12-21,1
+CompetitiveChess,"This subreddit is dedicated to creating a place for high level discussion and content for those who wish to better themselves at the game. We aim to maintain a serious atmosphere devoid of jokes, memes and low-effort content. Before submitting a thread, ensure your topic or question is about becoming better at the game.  Your post must contain content that generates discussion. ",2017-09-15,37
+NAChessClub,"Chess Club of Marlborough High School",2017-09-22,5
+699Dchess,"abe is akshully a genius",2017-09-26,1
+chessIndependent,"the main chess subreddit keeps promoting chess.com and lichess.org If you want to discuss freely or advertise your chess website/creation/puzzle without being harassed you are WELCOME",2017-09-27,4
+chesspuzzle,"Chess puzzles, endgames, checkmates, queen checks.",2017-09-28,5
+chesstris,@icgdc,2017-09-29,0
+babypeachess,"reserved for babypeachess  Is that you? You can request ownership [here](https://www.reddit.com/message/compose?to=%2Fr%2Fgonewild).",2018-01-04,3
+lichessgraphs,,2018-08-10,23
+fourdimensionalchess,,2017-10-18,2
+bulletchess,"One minute to make all your moves. That&#039;s it, that&#039;s all.",2017-12-02,8
+ClassicStrategyGames,"This community aims to celebrate and share knowledge and instructions on classic games like go, chess, xiangqi, shogi, mancala, checkers, and so on.",2017-11-13,1
+LeagueOfTactics,"Chess tournaments",2019-01-01,4
+ChessWithPigeons,"&quot;Arguing with an idiot is like playing chess with a pigeon. It&#039;ll just knock over all the pieces, shit on the board, and strut about like it&#039;s won anyway.&quot; - Anonymous  For those times when two very unequal opponents argue, and the one without the dog in the fight acts like they&#039;ve won.",2018-12-24,3
+mmochess,"discussion for mmochess.live",2018-01-06,22
+chessalert,"Chess Alert is a website dedicated to helping chess users find authentic information and reviews about chess products.",2018-03-01,1
+SpaceChess,"SpaceChess is a puzzle game inspired by chess in a Sci-Fi setting! Solve levels and get your name up in the online scoreboard!",2018-03-07,1
+kfchess,"Discussion related to the real-time chess game [Kung Fu Chess](https://www.kfchess.com/).",2018-03-10,100
+SparkChess,"Official SparkChess Reddit",2018-03-16,1
+Chess_Sphere,"Chess on a sphere, 4 players, extra characters, 288 spaces of infinite epic fun!!",2018-03-17,3
+unexpectedchess,,2018-03-21,43
+femichess,,2018-03-27,4
+casualChess,,2018-03-28,3
+ChessCraft,"ChessCraft is a mobile game where the player creates their own chess boards, chess pieces, and chess rules, and then plays against an AI.     Everyone is welcome here to post questions, feature ideas, your favorite boards or pieces, bug reports, or just talk about chess, chess variants, or artificial intelligence.   www.chesscraft.ca/faq",2018-04-03,115
+rtschess,rtschess,2018-04-05,1
+The_Pujan,"Subreddit to honor the allmighty mastermind &amp; 400D chess player, the most professional of all CS:GO players - Pujan &quot;FNS&quot; Mehta",2018-04-07,769
+ChessTalk,"We play chess and we talk. That&#039;s it",2018-04-11,2
+dutchesscounty,"A subreddit for citizens of Dutchess County, New Y.ork",2018-04-13,76
+ShittyChessSimiles,,2018-04-22,1
+ChessMaster69,"The one. The only. The best Chess player EUW. The 2nd biggest weeb of all time. ChessMaster69.",2018-04-26,2
+chessgotw,"A chess game for discussion published every Sunday chosen from chessgames.com&#039;s &quot;Game(s) of the Day&quot; from 7-14 days prior (to allow time for them to be sufficiently annotated there)",2018-04-29,27
+Chessclob,"Welcome to the chess clob, nobody accepts you in any other subreddits and you aren&rsquo;t acceotedbher either.",2018-04-30,1
+TheWRHSChessClub,"This is the official Chess Club for the WRHS.",2018-05-03,0
+MbraneGame,"Mbrane is a 2-player abstract strategy board game of pure skill that uses a Sudoku as its game board. A mobile game app (for now only) Mbrane combines elements of Sudoku, Chess, Risk, and Go into one uber-riveting, unique, fun and quick game.",2018-05-03,1
+sexychessclub,,2018-05-04,1
+ChessandGames,"C&amp;G does not condone descriptions",2018-05-22,25
+lczero,"Everything About Leela Chess",2018-05-27,25
+WitchesSabbat,"Witches Sabbat",2018-06-11,4
+Passedpawnchessclub,"This is a club for online chess players of all levels and all game type interested. Bullet, Blitz, Rapid, Classical, Custom, or Correspondence, we will do it all.",2018-06-27,18
+chess_ja,/r/chessの日本語版です。日本でのチェス普及を目指したりただ単にチェスについて語ったりする掲示板です。,2018-07-23,13
+Quantumyth,"The Quantumyth is a universe created by artist Albert Chessa. It takes place in all times and places at once, including our own, and it&rsquo;s tales all share a single creation story, the titular Quantumyth. This place collects and chronicles these stories, most of which are intended for later adaptation as interactive experiences (video games) in the vein of The Pathless, Zelda, and The Last Guardian.",2018-07-26,10
+PadminiRout,"Padmini Rout (born January 5, 1994) is an Indian chess player who holds the titles of International Master and Woman Grandmaster. She won the World under-14 girls&#039; championship in 2008 and the Indian women&#039;s championship for last four years from 2014-2017). She was honoured with the Biju Patnaik Sports Award for the year 2007 and the Ekalavya Award in 2009. In 2005 and 2006, she was both the Indian under-13 girls champion and the Asian under-12 girls champion. Padmini Rout won the U14 girls&#039; sec",2018-12-13,5
+theelephantgame,"A subreddit for Chinese Chess , Xiangqi , and A.I. opponents",2018-12-12,1
+Chess_br_official,"The official chess battle royal subreddit",2018-12-11,0
+leelachess,,2018-12-10,1
+BryanChessClub,,2018-11-30,1
+ChessSphere,"The Official page of The Chess Sphere.  Chess Sphere is also on: Discord: https://discord.gg/yE3uxkF Facebook: https://www.facebook.com/chesssphere/",2018-11-26,30
+chessopeninglines,,2018-11-26,0
+AtheistWitchesSpace,"A safe and sacred space for those of us who practice Witchcraft as mainly solitary practioners and have more atheistic views of deities. Either you don&rsquo;t believe in any or you believe in them all as archetypes. Perhaps you prefer to use plants, stones, and/or animals in your working. Whatever your focus, we work with the energy of everything around us. It&rsquo;s hard for us to begin thinking about joining a community, so let this be that to you. So mote it be.",2018-10-29,2
+TundraChess,"A Subreddit dedicated to Tundra Chess. Created to help spread the word of it&#039;s Programmer D.B.T and his creation.",2018-10-17,2
+chess_irl,"PGN Files of the Soul",2018-10-12,458
+Shitty_Chessboard,"A subreddit for all of the best chessboards, be it with a right bottom black square or a chessboard where the knight and the bishop are swaped",2018-09-22,50
+chess_improvement,"Beginner or master - all things related to improving your game.",2018-09-15,2
+ChessStrategy,"A place to discuss strategy",2018-09-13,1
+TheChessClub,"Welcome to the Chess Club bois",2019-06-11,711
+StreamingChess,"Obsessed with chess streaming?  Maybe you are a viewer, a lurker, a fan or you stream.  Join our discussion.",2019-06-11,2
+RiotChess,"A better name than Teamfight Tactics",2019-06-10,2
+AutoBattler,"A subreddit for the new and emerging genre of autobattler games like Auto Chess, Teamfight Tactics, Dota Underlords and more.  Join /r/AutoBattler and the autobattler community and discuss current and upcoming autobattler games.",2019-06-10,136
+HeroGames,"/r/HeroGames is a subreddit for Hero Games like Auto Chess, Dota Underlords, Hero Draft or Teamfight Tactics.",2019-06-10,1
+2DsPlayingSports,"Whether it be soccer, archery, chess, or e-sports, this sub is for all your sportsy 2D&#039;s needs.",2019-06-06,761
+PuzzleRush,"Puzzle rush - the tactic challenge of chess.com. You have five minutes to solve as many problems as possible. You only can make two mistakes.",2019-05-27,0
+Dota_Underlords,"A place to be hyped about Valve&#039;s new (auto-chess) game!",2019-05-24,1
+Churchof8PlayerChess,"Advocates of the 8 player chess gather!",2019-05-15,2
+AutomaticChess,"Talk about any and all Auto chess games.",2019-05-15,15
+KidsChess,"Teach kids how to play chess.",2019-05-12,1
+favorchess,"Assemble your own unique chess army to use against your foes. Use new strategies and pieces to compete against players around the globe in a game of pure skill, where cleverness and adaptation are rewarded.",2019-05-04,1
+Anarchy2000Chess,"for *g O O d p l a Y e r s* only                                                                   (rip r/2000chess 😢)",2019-04-30,12
+TheHeavenlyDream,"Xiao Yu, a genius of Go on the modern earth, is a chess idiot (A boy with a crazy mind). Abducted by an old man with white beard to another world, and encountering a weird chessboard with secrets and spiritual power etc. This chessboard seems to be a colour embryo. Look at how our 21st century gifted Go teenager conquer exotic beauties and Daxing Chess Road!",2019-04-27,3
+ChessSupport,"Have any questions about chess? Ways to fix your weakness? Ways to improve? Join this subreddit, and ask your questions here, and a roughly 2300 rated FIDE rated player will get back to you as soon as possible! (And no this isn&#039;t a scam like tech support scams :P)",2019-04-25,25
+JordynChessmore,,2019-04-22,7
+AnalysisYourChessGame,"Post your chess games here and a 2300 FIDE rated player will annotate your games!  Doesn&#039;t even have to be your games!",2019-04-22,70
+AlbertChessa,"Albert Chessa creates media, including a podcast (est. 2015)",2019-04-20,2
+timetofilmthechessvid,REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE,2019-04-19,1
+AchievementPics,"Sharing Pics of Chess related Achievement.",2019-04-16,189
+RouxNBlind,"This community is about the methods of Roux and 3-style used to speedsolve a 3x3. You can also discuss about other puzzles like Go and Chess here.",2019-04-05,1
+DaytonChess,"News about, discussions surrounding or anything else related to DaytonChess.",2019-04-01,8
+chesspizza,"chess pizza",2019-03-28,19
+herochess,"Subreddit for everything Hero Chess, the upcoming mobile strategy game.  Download the FREE beta now: www.herochessgame.com",2019-03-21,33
+AlexPlaysChess,"twitch.tv/areckx__  patreon.com/areckx",2019-03-20,1
+nobodyrememberschess,"Nobody remembers fucking Chess, Moc.",2019-03-20,0
+MumTeachesSonToCook,"Welcome all! We made this friendly forum for aspiring cooks to have full access to our growing stockpile of &quot;how to&quot; guides. We encourage exchanging helpful advice and plenty of good humour :)",2019-03-16,4305
+ChessDice,"Subreddit for Chess-Dice!",2019-03-13,1
+AnarchyCheckers,"Please see /r/chess.",2019-03-09,30
+WizardChess,,2019-03-04,0
+draftchess,"Draft Chess is inspired by Dota Auto Chess game mods, which is a turn-based tactical strategy game that pits you against seven other players in round after round of resource-management action. ",2019-03-01,0
+leelachesszero,"All discussions related to LeelaChessZero",2019-02-24,6
+ChessCandy,"Community of ChessCandy.com and vouches",2019-02-20,8
+HeroDraft,"A hero drafting game inspired by Auto Chess and Pokemon Defense",2019-02-20,364
+auto_chess,,2019-02-19,1
+qihl,"qihl is the largest Dota Auto Chess community.",2019-02-19,1367
+DAChess,"Subreddit for the DotA 2 Arcade game, Auto Chess.  (https://steamcommunity.com/sharedfiles/filedetails?id=1613886175)",2019-02-19,1
+DACPieces,"DotA Auto Chess (DAC) is a custom game for DotA 2. It is very good.",2019-02-19,0
+dota2chess,chess,2019-02-18,1
+ChessTraps,"This community made for sharing chess traps. You can share any kind of trap related to chess.",2019-02-18,7
+ChessOnIce,"Discussion and support around the ChessOnIce curling simulator, and the associated blog www.ChessOnIce.ca",2019-02-17,11
+DasMannschaft_AUB,"This subreddit is a public hub for the students of AUB, created by the German Student Society of the University, Lanndsmanschaften Beyrouth; here you may find discussions regarding Teachers, Courses, Previouses, Events, as well as online debates, chess-game setups, advising and learning sessions, storytelling, etc... We hope you find it to your satisfaction.  Made by: Salaheddine Al Wazzan Run by: Dahdouh",2019-02-14,1
+DemocraChessWHITE,"Chess played Democratically. White Nation.",2019-02-09,0
+DemocraChessBLACK,"Chess played Democratically. Black Nation.",2019-02-09,0
+DemocraChess,"Chess played Democratically.",2019-02-09,5
+Tamika_Chesser,,2019-02-09,161
+stockfishsays,"Analysis of chess positions by Stockfish engine",2019-02-04,0
+3dchess,"A sub devoted to the rationalization that since an idiot cannot possible become president, then the idotic things our president does must have some deep, long-term strategic value that we can&#039;t comprehend. Must like a move in 3D chess might seem idiotic to people who are only considering 2 dimensions.",2019-01-27,2
+MediocreChessMeister,"Explore the tactics and strategies of a mediocre chess player. If you are below 1500, you might learn something relatable to you. If you are 1500-1699, you can learn a couple of perspectives you haven&#039;t thought of before or learn from some of my mistakes. If you&#039;re 1700+, you can at least have a laugh.",2019-01-23,4
+ChessChat,"Yes, another chess community! This one is hopefully different since it will allow you to chat with people though about chess!",2019-01-20,0
+ChessTower,"This is a Subreddit for discussion and build/design for the game &quot;ChessTower&quot;, independently in development by AcePincter and a small team.  The studio entity has not yet been named.  As yet, this subreddit is restricted to official releases of information, but will be opened up eventually.",2018-10-24,27
+Chess_Puzzles,"Hard Chess Puzzles",2018-02-24,1
+watchlivestv,"Watch here: https://watchlivestv.com . NFL, UFC, NHL, NBA, EFL, GOLF, WWE, Rugby, Gaa Football, Boxing, Shooting, Wrestling, Formula Racing, Hockey, NCAAF, MLB, Tennis, Nascar, MMA, NCAA, Baseball, Wrestling, Shooting. Top Leagues, EURO, Copa America, UFEA Champions League, English Premier League, UEFA Europa League, La Liga, FA Cup, AFL, CFL, Serie A , Ligue 1, Bundesliga, Chess, Snooker, Athletics.",2018-02-17,2
+counting_chess,"For chess players of /r/counting",2018-02-16,3
+Blindfoldchess,"This subreddit is for all blindfold chess lovers that want to share their thoughts or tactics.",2018-02-12,3
+Chessgamedevelopment,,2018-02-10,1
+MonarchyChess,"Chess &quot;memes&quot; and &quot;discussion&quot;",2018-02-03,287
+ChessPlayers,ChessPlayers,2018-02-02,1
+MachEsSelbst,"DiY auf angels&auml;chsisch",2018-02-01,1
+WarfareChess,"Warfare Chess is an Online PvP Animated 3D Chess game with special effects in asction. Chess beyond the conventional and taken to the next level!  App Store  https://itunes.apple.com/us/app/warfare-chess-2/id1313703066?mt=8  Google Play https://play.google.com/store/apps/details?id=com.ShooterboyEntertainment.ChessWarfare2  Amazon  https://www.amazon.com/ShooterBoy-Entertainment-Warfare-Chess-2/dp/B0773CCBNN  Facebook   https://apps.facebook.com/warfarechess  Website warfarechess.com",2018-01-30,1
+PokemonChess,"This is the new variant of chess: Pokemon Chess!",2018-01-17,1
+alicechess,"Discuss my posts on r/writingprompts here",2015-02-16,0
+DutchessDementia,"If you&rsquo;re here, you probably already know what you&rsquo;re here for. If not, you came for the booty. Trust me. $5 Onlyfans no pay to view 😘 https://onlyfans.com/dutchessdementia sub to support my crippling tarantula hobby 😅",2019-09-14,29239
+tschess,"The measure of a man is not what he does for wages, but what he does for leisure. Do you play?",2020-07-14,5
+bughousechess,"For ppl looking to play bughouse chess, finding partners for it, sharing ridiculous/funny/cool mates.",2020-06-11,3
+SusannaDutchess,"reserved for SusannaDutchess -- Is that you? You can request ownership [here](https://www.reddit.com/message/compose?to=%2Fr%2Fgonewild).",2019-03-12,7
+Chessstrategies,"A subreddit where you can discuss chess strategies with your fellow chess players",2020-02-28,1
+DillonSucksAtChess,"When you beat somebody at a game, like chess post it here",2020-01-29,2
+chessdeals,"You can find the best deals on Chess Equipments here. The best offers on Chess pieces, Chess Boards, Chess Clocks, Chess Tables, Chess Storage boxes, etc.",2019-11-28,2
+fischerrandomchess,"Anything related to chess960/Fischer Random Chess",2020-02-28,2
+CreamyPeachess,"reserved for CreamyPeachess -- Is that you? You can request ownership [here](https://www.reddit.com/message/compose?to=%2Fr%2Fgonewild).",2019-05-08,1
+newchessrules,"Nowadays all games are getting additions, expansions, and DLC. Chess is a game that&#039;s been around for hundreds of years and yet its never been changed! This subreddit is devoted to making new rules for the game to play with your friends. Feel free to post all of your ideas here! Please make sure all images or texts are rules or pictures of rules and make sure to explain your rules in depth.",2019-09-01,32
+DevilDutchess,"reserved for DevilDutchess -- Is that you? You can request ownership [here](https://www.reddit.com/message/compose?to=%2Fr%2Fgonewild).",2019-07-19,1
+georgiaaapeachesss,"Hi! I&rsquo;m a 23yo college cutie selling fetish friendly sexual content, such as used panties/socks, videos/pictures, kik sessions, GFE, and more! Official subreddit for u/georgiaaapeachesss to make viewing easier for buyers.",2019-08-04,290
+ReconBlindChess,"For all things related to the game reconnaissance blind chess, including competitions, code, infrastructure, rules, and strategy.  Reconnaissance blind chess (RBC) is a simple but powerful twist on chess intended to create a fun challenge and competition for AI and humans. RBC is like chess, but one cannot see where her opponents&#039; pieces are. Rather each player can learn about opponents&#039; positions with the ability to privately sense a 3x3 square of the board each turn.",2019-08-01,22
+chess_,chess,2020-06-14,1
+ShitWenchesSay,,2019-09-04,1
+chesscommands,"私に質問があればどのようなものでも受け付けます。  規約的に18金以外で。。。  もちろん質問すべてを確認するつもりです(返信するとは言っていない)。",2019-07-28,1
+Chess_ppl,Chess.,2020-03-11,0
+Toussaint. She appears in the books &#039;The Tower of the Swallow&#039; and &#039;The Lady of the Lake&#039;, as well as the Witcher 3&#039;s Blood and Wine expansion.",2019-08-08,1009
+ChokerTheGame,"Choker = Chess + Poker.   Mobile app currently in Beta.",2019-11-17,5
+AutoRoyalChess,"The official subreddit for WhaleApp&#039;s mobile turbo 4-person auto-battler, Auto Royal Chess, out now on Android!",2019-07-20,1
+chesscheaters,"this is a community where we discuss and report online chess cheating",2019-07-20,1
+TheResonant,"A subreddit run by Sheyodi, the Resonant (astral entity) who lives inside the author and podcaster Albert Chessa.",2019-10-25,1
+chessmodifications,"On this subreddit, we share our modifications to the classic game &ldquo;chess.&rdquo; New rules, different formats, or crossovers from other games, this is the place where you can change the game!",2019-07-12,2
+/r/thesee  [[♘]](https://benthamopen.com/contents/pdf/TOCPJ/TOCPJ-2-7.pdf)  [[♰]](https://old.reddit.com/r/eliezer)  [[☮]](https://www.reddit.com/r/hurricanedorian/comments/cxf5ey/_/)  [雨](https://old.reddit.com/r/fahrenheit2500)",2019-10-15,1
+AllieStein,"allie stein chess engine",2020-08-19,1
+DailyChessGroup,"A place to arrange and discuss your correspondence games",2019-07-12,2
+NotSoStandardChess,"A forum to learn, discuss and enjoy the beauty of diffrrent variants of Chess .",2019-07-06,0
+PlayChessRush,,2019-07-03,4
+ChessRushGame,,2019-07-03,1
+ChessRushOfficial,,2019-07-03,1
+ChessRushTencent,ChessRushTencent,2019-07-03,1
+ChessRushMobile,ChessRush,2019-07-03,1
+ChessMates,"ChessForMates.  It&#039;s a play on work for CheckMate ! But we&#039;re mates ! Gettit ? :-D  OK, so basically, this is a place for anyone, who has some kind of interest for the game of Chess. We&#039;re not necessarily here to discuss the intricacies of the game, but just to find other people to play a few games with.  Scores being applied for wins and losses seem fun, so let&#039;s go with that !  I personally use the Chess.com where you can freely challenge other members, and download game move sets, etc...",2019-07-02,1
+MagicChess,MagicChess,2019-06-30,1
+TriplexRep,"TriplexRep, short for the chess move Threefold Repetition, is a Subreddit where debates will take place. Similar to the chess move, if the same argument is made three times then the debate comes to a draw and no one wins. Make your points count!",2019-06-26,3
+bbefandchesse,"Bbef and Chesse",2019-06-25,1
+ChessRush,"Welcome to the official Reddit board for Chess Rush, an innovative strategy battler available now for iOS and Android. Feel free to use this board to discuss any topic related to Chess Rush. The game team checks this regularly so this is a great place to make sure your voice gets heard!",2019-06-21,3569
+TextChess,"Ever wanted to play chess in probably the worst way possible? Welcome!",2019-06-17,1
+chessdotcom,,2019-06-15,0
+ChessieReaNSFW,"collection of Chessie Rea posts",2020-04-22,3
+",2019-02-10,908
+hoodchess419,"Badazz Bitchez designated as official referees and points and punishment distributors however the general publis is all welcome to provide their commentary and analysis of the gamez!!",2019-02-01,1
+ChessDoujinshiNSFW,"NSFW! A place for me to post updates about the chess/shogi based hentai doujinshi I&#039;m working on.  Also for others to post their own on-topic posts.  This sub will contain explicit discussions/images.",2018-01-22,195
+chessememes,"a meme subreddit about cheese",2020-07-30,1
+chestgame,"A chess inspired board game played with different pieces and board size.  The object of the game is to take at least half of the opponents total gold from up to three of their chests.",2020-05-27,2
+BluecoatChess,"The bluecoat chess team init",2019-08-17,11
+AlbertStudio,"moved to r/AlbertChessa",2019-08-22,0
+dutchess,"[이것은 당신의 공간입니다.  서로에게 친절하십시오.](https://old.reddit.com/r/elephantcorps) https://old.reddit.com/r/thesee  [[♘]](https://benthamopen.com/contents/pdf/TOCPJ/TOCPJ-2-7.pdf)  [[♰]](https://old.reddit.com/r/eliezer)  [[☮]](https://www.reddit.com/r/hurricanedorian/comments/cxf5ey/_/)  [雨](https://old.reddit.com/r/fahrenheit2500)",2019-10-15,6
+JIYUTheBoardGame,"JIYU is a strategic chess based board game with RPG Elements where strategy and great forethought will be your greatest allies.   The game comes with many features one of them being the ability to support cooperative play by using multiple boards to connect and broaden the battlefield.   Join us on our discord and back us on kickstarter  Discord: https://discord.gg/QBXvdje  Kickstarter: TBA soon!   See you on the battlefield!",2019-08-27,4
+CreatureChess,,2019-08-30,31
+MeetStar and more.",2019-08-30,5460
+EpicChessTime,Gae,2020-01-01,1
+chessbae94,"This subreddit is dedicated in response to allow open discussion about anything related to chessbae94, an anonymous twitch user that has gained total power over twitch chess. She has donated tens of thousands of dollars to  chess streamers and in return is a very powerful moderator in many of these channels and essentially operates and distributes power across all of the chess.com affiliated streamers and their events, spending hours a day every day moderating. https://www.twitch.tv/chessbae94",2020-06-09,186
+ChessFunnies,"Chess: Funny",2019-11-10,8
+chessington,"The only subreddit dedicated to Chessington World of Adventures Resort.  (Not affiliated with Merlin Entertainments or Chessington World of Adventures.)",2020-02-27,37
+Ennaychess,"A sub for our ennaychess",2020-07-18,3
+RegiumChess,"Go check out the main subreddit for this topic, r/Regium!",2020-02-24,1
+LegacysAllure,"Legacy&#039;s Allure is a customizable, card-based wargame with no randomness. Command warriors, beasts, and mages on the battlefield to outplay your opponent in this chess-inspired fantasy battle.",2019-09-19,19
+4Dimensional,"A subreddit for things involving anything involving the Mathematical or the Physics/String theory based depiction of multiple dimensions. To memes like 4d chess, news, or you just want to show off your Klein bottles.",2020-02-29,0
+chesspocalypse,"https://old.reddit.com/r/thesee  [[♘]](https://benthamopen.com/contents/pdf/TOCPJ/TOCPJ-2-7.pdf)  [[♰]](https://old.reddit.com/r/eliezer)  [[☮]](https://www.reddit.com/r/hurricanedorian/comments/cxf5ey/_/)  [雨](https://old.reddit.com/r/usmarine)",2019-09-21,1
+MagicChessBangBang,"A game by Moonton.",2019-09-21,251
+Regium,"Welcome to all discussions regarding Regium Chess, a controversial kickstarter company who claim to create high-tech chess boards.",2020-02-23,1
+deutschesstatsgebiet,.,2020-09-12,1
+CLPChess,"Peeps looking for chess matches",2019-09-25,2
+ChessPlayersUnite,"Chess enthusiasts and fanatics are all welcome!",2019-09-30,2
+WholesaleChess,"Wholesale Chess",2019-10-01,22
+YangsChessboard,"A subreddit focused on discussing and encouraging ACTION and strategy around the goal of getting presidential candidate Andrew Yang into the White House.",2019-09-30,7
+mcgillchemeng,"The reddit page for McGill Chemical Engineering! Have questions about courses? Want to know what ChESS and EUS events are happening soon? You&#039;ve come to the right place!",2020-08-18,21
+DutchessCC,"the unofficial subreddit for dutchess community college.",2020-02-12,6
+glitchcracker,"Follow the White Rabbit --&gt; One pill makes you larger, and one pill makes you small And the ones that mother gives you, don&#039;t do anything at all Go ask Alice, when she&#039;s ten feet tall And if you go chasing rabbits, and you know you&#039;re going to fall Tell &#039;em a hookah-smoking caterpillar has given you the call And call Alice, when she was just small When the men on the chessboard get up and tell you where to go",2019-10-08,1
+AmberSaint,"Brian: Because Mengsk is a chess player. He&rsquo;s a guy who understands that you play the man, not the hand.",2019-10-09,3
+ChessTheMusical,"A place for all things related to the musical Chess.",2019-10-09,35
+ResonantOfficial,"Resonant is a conceptual progressive rock band created by Albert Chessa, which creates albums based on his fictional universe, The Quantumyth.",2019-10-25,0
+/r/thesee  [[♘]](https://benthamopen.com/contents/pdf/TOCPJ/TOCPJ-2-7.pdf)  [[♰]](https://old.reddit.com/r/eliezer)  [[☮]](https://www.reddit.com/r/hurricanedorian/comments/cxf5ey/_/)  [雨](https://old.reddit.com/r/fahrenheit2500)",2019-10-15,1
+ChessandCheckers,"Teach and talk to people about Chess or Checkers.",2020-03-01,0
+SubKhoaHocHESSTEM,"Subreddit của c&acirc;u lạc bộ STEM, d&ugrave;ng để chứa những g&igrave; tốt nhất của Khoa Học",2019-11-01,1
+DillionCantPlayChess,"Pictures of people losing in the classic game of chess",2019-11-04,2
+RedditChessbattle,"Play some online chess in reddit! Better to have a chessboard near by to keep track!",2019-11-09,4
+ChessLessons,"This community is for people and kids who want to learn the game of chess.",2019-11-13,2
+Chess_Royale,"Discover the first fast-paced 100 players autobattler set in the Might &amp; Magic Universe! Play NOW on iOS, Android, Windows and macOS!",2019-11-15,1507
+Vanilla_Dutchess,"A subreddit about instagram user Nicole Greene, a.k.a. vanilla__dutchess.",2020-02-27,53
+2Chess_irl4Chess_irl,"PGN Files of the Soul",2020-01-02,22
+myppitches,"A subreddit for encounters and updates from the troll u/myppitchessobad",2019-11-18,3
+analyzingchess,"Helps people analyze chess.",2019-11-20,2
+chesshumor,"This group is created by iPlayChess (https://chessvi.com) and is strictly for chess memes, jokes and comments. If you have something funny related to chess, post it here.",2019-11-21,1
+ChessEverything,"Post anything about chess. This ain&rsquo;t r/chess though. You can: &bull;Post chess related memes &bull;Brag about your set, we dgaf &bull;lmao etc",2019-11-21,1
+ChessPoker,,2019-12-20,1
+USCF,"Anything about the United States Chess Federation, or US Chess in general!",2019-11-23,1
+parmesanchesse,"hi if u need some online friends to talk to let me know and ill add u to a gc!!1!2",2019-11-24,1
+ChessBlunders,"A subreddit dedicated to the worst blunders in chess.",2019-11-29,1
+bobbyfischer,"This community is about the famous American chess player, Bobby Fischer. Many consider Fischer to be the best player of all time.",2019-11-28,3
+sexychesspieces,"Sexy Chess Pieces.",2019-11-30,3
+chokergame,"Everything about the new game of chess + poker = choker.",2019-12-02,5
+chessvision_ai_bot,"Everything related to /u/chessvision-ai-bot development",2019-12-03,19
+GibbyChesseThiccccc,"Memes, Video Game, Movies, Shows, History, Etc",2019-12-03,2
+StrategicPlays,"r/StrategicPlays is for strategic plays that would help your self and/or your team that can conclude of the following: board games (Chess, Dnd, Monopoly, etc.) Video Games(league of legends, overwatch, GTA, etc.) Sports and more",2019-12-04,0
+Unchess,"Chess humour",2019-12-04,0
+chess_porn,"Chess Porn, when there&#039;s  both, black and white. Doesn&#039;t matter how many participants, it just needs to be interracial sex between white and black humans.",2019-12-10,1072
+bishopsandpawns,"edgy priest rape jokes with chess pieces",2019-12-12,1
+mmmmmmchesse,"Random shit",2019-12-16,1
+the_Rudy_Giuliani,"If Trump is our chess King, Rudy is our chess Queen!",2019-12-16,1
+Chesslovers,"For people who like chess",2019-12-19,1
+sydneychess,"All things Chess in Sydney",2019-12-21,1
+NojokeChess,"Chess Not Jokes",2019-12-22,2
+kayttipeachess,"Everything related to the hot ass milf Kaytti Peaches",2019-12-23,0
+Fatchessyduckroblox,"Games made by Fatchessyduck on Roblox",2019-12-25,1
+Job_Jokes_DOS,"If you do or do know someone with a job, maybe we can joke about it? WHAT IS GOOD FOR ME IS GOOD FOR THE COMPANY? (no, unless you have stocks hehe) The defense rests? (No rest for the whicked schmahtt?) How about a nice game of chess? Or another game that is like chess? Stay or Go, up to you.",2019-12-28,1
+ChessUM,"Community for Chess Ultra Masters club on chess.com",2020-06-11,1
+ChessWorldwide,"A Reddit Pertaining to Everything Chess Related",2020-01-03,1
+chessedog,"the yelom dogm",2020-01-05,0
+ChessTD,"A subreddit for discussion of ChessTD an arcade mode in the game of Mobile Legends Bang Bang",2020-01-07,12
+chessclips,"A place to post and watch chess videos without the ridiculous rules of r/chess.",2020-06-11,33
+StonedChess,"For everyone that doesn&rsquo;t like to play chess sober or play better not sober :)",2020-01-11,1
+ChessRoyale,,2020-01-14,1
+JohnMuirChessClub,"Chess Club?",2020-01-17,4
+IHSAchess,"This subreddit is for anyone/anything related to IHSA Chess. Students, alumni, coaches, and chess lovers are all welcome. Join the discussion in the latest &quot;drama&quot; circulating the top teams challenging for the state title, the Coach of the Year award, and much, much more! This subreddit is not sponsored or endorsed by the Illinois High School Association.",2020-01-18,11
+AccelChess,,2020-01-19,0
+conjurerschess,"A place to discuss Conjurer&#039;s Chess: Swords Spells and Shotguns by Empty Circle Games.",2020-01-19,0
+CFCChess,"A Chess oriented community that revolves around tournaments, news, and general discussion of the Canadian Federation Of Chess",2020-01-21,1
+chesscomputing,"Discussion of the use of computers in chess playing.  This includes chess apps and programs, chess computer tools, standalone chess computers, and dedicated chess sites.",2020-01-21,2
+AnarchyAnarchyChess,"THICC CHESS FOR THICC BRAINS",2020-01-22,509
+Katte_Chess_Club,"Life is like a game of chess. I don&#039;t know how...",2020-01-28,8
+glitchessubreddit,"There you can post glitches",2020-02-28,1
+NakedPoncho,"Are you tired of the same fucking unoriginal fashion? Tired of people wearing fucking trackies and shitty addidas and fake gucci? Tired of the acrylic nails and fake eyelashes that cost &pound;90 but can&#039;t PAY THE FUCKING RENT LAURA? Me too, welcome to r/Nakedponcho, be part of a movement innit, wear fucking nothing but the sleek, gorgeous, see-through, not to mention waterproof poncho you got from Chessington World of adventures or some shit. It&#039;s like a Cape for your whole body innit. NOT ILLEGAL.",2020-02-24,1
+Dicechess,Dicechess,2020-02-01,1
+owengay,"hey u/LickTheChesse",2020-02-03,1
+TheChessBoard,"A Discord Chess Themed Community geared towards the discussion on topics, including: History, Philosophy, Politics, Science and much more! We have regular events from Movie Night, Gaming and Open Debates. Links in About Tab!",2020-02-27,4
+Legends_of_Chess,"A place to discuss the great legends of chess such as Magnus Carlsen, Yuri Khuyaytsakov, Garry Kasparov, and more!",2020-02-11,332
+CursedChess,"This is a place where we post pictures of cursed chess images",2020-02-10,1
+redditchessclub,,2014-01-28,1
+NewChess,"New Chess is a rework of the classic game of chess, with several bizarre twists. To get an idea of what we mean by bizarre twists, take a look at [this,](http://www.youtube.com/watch?v=YgeYScYe8wI) the video that inspired the subreddit!",2013-04-30,1
+tf2chess,,2012-03-03,0
+ChessTeamB,,2010-01-05,1
+ChessTeamA,,2010-01-05,1
+tridimensionalchess,"This is a subreddit for discussing all things related to Tri-Dimensional Chess",2020-02-15,7
+TournamentChess,"The definitive forum for tournament chess and serious chess study.",2020-02-22,774
+chessvariations,"This is a communtiy that posts new and fun variations on the game of chess.",2020-02-21,1
+TalkingChess,"This will be a subreddit for more advanced and serious chess discussion",2020-02-23,1
+beatmeinchess,"send me custom game codes in cool math and beat me in chess because I want to get better. You can challenge each other in chess matches. Chess memes are aloud. You can have intellectual conversations or conversations about chess. NO NSFW OR NSFL CONTENT.  No advertising.",2020-02-22,0
+ZugChess,"Welcome to ZugChess!   Your input is highly valued, but please refrain from discussing topics that u/ZugAddict does not consider interesting.",2020-02-22,6
+optimumchess,"Chess Forum for Players in the 80th Percentile or Above",2020-02-22,35
+RatedChess,"An Alternative to r/Chess and r/AnarchyChess for people who want to discuss chess more seriously",2020-02-22,81
+yaychess,"just chess",2020-02-29,1
+ChessPlus,"New chess community :)",2020-06-11,4
+ChessUMsupremecouncil,"A council of chess enthusiasts that is looking to build a community of hardworking individuals that will breath fresh air into the age old game of chess",2020-05-28,1
+AutoBattlerGaming,"Auto Battlers, also known as Auto Chess, originated as a subgenre of the real-time strategy (RTS) genre of video games",2020-05-31,3
+pigeon_chess,"&quot;Playing chess with a pigeon&quot; refers to a debate with someone who is ignorant of the subject matter, and unwavering in their opinion regardless of what evidence or proof of the contrary is presented to them.",2020-05-21,15
+thedutchess,"HRH The Dutchess of Cambridge",2020-06-14,1
+YesTechDigital,"we are discussed  Card game, Board Game and chess.",2020-03-06,1
+xichess,"Xiangqi Chinese Chess",2020-07-14,2
+coffeemugs2020,"no rules. just only pictures of coffee mugs for the most part. the sub hasnt figured out what the sub is yet. its kind of like coffee mug chess. we have so many coffee mugs after all..",2020-03-11,1
+chesshighlights,"A subreddit to show chess clips and share ideas.",2020-03-12,1
+Youtube_channel_links,"Welcome Youtuber and chess players",2020-03-15,0
+woxze_chess,"I love playing chess. Always looking forward to learning a little more",2020-03-15,1
+Soul.",2020-03-17,11
+TamerlaneChess,"Tamerlane Chess is a Chess variant played on a 10*11 board with 2 extra spaces called citadels. It has 11 distinct pieces.",2020-08-07,10
+scorchchess,"Official subreddit for ScorchChess, &quot;Your Score Manager of Choice&quot; and the tournament software of the future. About: https://scorchapp.co.uk Results: https://results.scorchapp.co.uk FAQS: https://scorchapp.co.uk/faqs",2020-06-02,4
+chessetc,"chess games",2020-03-20,0
+Petrosian,"For those who wish to learn about the ninth Chess World Champion - Tigran Petrosian.",2020-03-20,1
+GambitAccepted,"A gambit, in chess, is a sacrifice for time or for a better position. This subreddit shows people unknowingly make bad deals.",2020-03-21,0
+topofthetable,"Relaxed community to discuss all tabletop games. From Warhammer to Chess to Candyland, all games are welcome",2020-03-21,2
+onlinechess,"Hi everyone, Here is online chess!",2020-03-23,2
+watchess,"A community for the love of watches",2020-03-23,2
+TeachesSelfExpression,"Teaches Self Expression",2020-03-26,27
+Gamecolony,"Subreddit for anyone that likes playing Gamecolony games online for money. Gin Rummy, Dominoes, Mahjong, Rush 21, Backgammon, Chess etc.  Rules: 1.) Nothing promoting gambling. (Game Colony games are only games of skill, never chance.)",2020-03-26,3
+okd4retard,"Chess Humor 2.0",2020-03-27,1
+FreePressChess,"Chess news with no censorship. You can view the log here: https://moddit.ffff00.news/r/FreePressChess",2020-06-10,3418
+ReverseGrandmasters,"This is the community for anyone who sucks at chess, we are as bad as Grandmasters are good.",2020-03-30,7
+Atomic_Chess,"Everything to do with atomic chess. Game analysis, current events, and more!",2020-03-31,3
+glasschess,"glasses chesssss",2020-04-01,5
+THEBOYSSSSSSSSSSSSS,"we play chess",2020-03-31,2
+HowToChess,"For the people struggling to play chess!",2020-04-02,1
+MobileArtLegends,"One of popular competitive mobile games  is moba and auto chess safe art but adult art&#039;s is not popular idea is originals",2020-04-01,2
+chessultra,"This is a community based on Ripstone&#039;s &quot;Chess Ultra&quot;, available on PS4, Xbox One, PC and Nintendo Switch. There are may great aspects about this game that will keep you playing for hours. If you are a gamer or a chess player, this is the place for you.",2020-04-04,15
+ChessieRae,"Fan page for Chessie Rae",2020-04-03,1758
+soapychess,"A small community to share our lewd and nsfw cosplay and related content!",2020-04-04,620
+will be banned.",2020-04-06,1
+chexi,"Chess with dice.",2020-04-08,2
+royalgame,"A moderated community dedicated to the game of chess.",2020-04-10,1
+The_Dutchess_,"All things Dutchess! &lt;3",2020-04-10,4
+chesss,"It&#039;s just chess",2020-04-10,2
+3playerchess,"Welcome to r/3playerchess! This community is for all things about the 3 player version of the original chess game",2020-04-11,3
+indoorgames,"Indoor games pictures like chess, carrom, dart, Jenga etc are allowed",2020-04-11,1
+ChessChess,"Chees but better",2020-04-16,42
+lichessgifs,"A community for chess gifs, best from lichess.",2020-04-22,1
+NewChessPieces,"This sub is for custom and cool chess pieces ideas",2020-04-22,0
+shitchurchessay,"A place to share all the over the top/funny reactions comming from churches all around the world",2020-06-12,1
+chess2020,"dedication to the finer things",2020-04-18,1
+ChessChallenge,"This community is about a game I made and it&rsquo;s simple get a checkmate with as little score as possible (score will be explain in the pinned post)",2020-04-21,1
+pigeonsplayingchess,"There&#039;s a famous saying that arguing with an idiot is like playing chess with a pigeon. Regardless of the outcome, it&#039;ll knock over all the pieces and strut around like it won. This community is for all the times an idiot acts like a fool and still thinks they won the argument.",2020-04-23,10
+CentariChess,"r/CentariChess is for anything related to Centari Chess. A description of Centari Chess can be found in the About Centari Chess sidebar widget or at the following URL: reddit.com/r/CentariChess/comments/g7j02k/.",2020-04-24,12
+DomainCardGame,"A community for Domain the Trading Card Game.  Playable at https://enterthedomains.com on mac/pc/desktop browsers.  Combines chess with card games for unique, infinitely deep gameplay.",2020-04-27,28
+Iamverygoodatchess,"Here you can share any stories or screenshots of &quot;very good chess players&quot; flaunting their chess skills.",2020-04-30,12
+MagicChessGame,"Anything related to Magic Chess, an arcade game inside the Mobile Legends Bang Bang game.",2020-04-30,2
+watchesSadomasochism,watchesSadomasochism,2020-07-30,1
+Deathwatch_,"An organization looking to revert Mandalore to it&#039;s warrior roots and seize power from dutchess Satine Kryze",2020-05-01,37
+anna_chess,"A subreddit for the IM chess player and content creator Anna Rudolf!",2020-05-02,680
+ChessQuestions,"Welcome to r/ChessQuestions. A forum for discussing all things chess",2020-05-05,1
+HikaruNakamura,"This is a community all about 5 Time US Chess Champion, GM Hikaru Nakamura",2020-05-06,10877
+GMHikaru,"GMHikaru&#039;s fan subreddit. You can discuss anything related to GMHikaru. Please be polite.  [Twitch](https://www.twitch.tv/gmhikaru)  [Youtube](https://www.youtube.com/channel/UCweCc7bSMX5J4jEH7HFImng)  [FB](https://facebook.com/GMHikaru)  [Twitter](https://twitter.com/GMHikaru)  [Chess.com](https://www.chess.com/member/hikaru)",2020-05-06,124
+drinkouts,"Drinkouts.com - Drinking Games and Video Chat All-In-One on a single website for quarantine drinking with friends. Games like Ring of fire, Pictionary, Codenames, Dice games, Chess, Poker, and more to come. No registration needed. Support for desktop and mobile. Feedback would be very welcome.",2020-05-09,3
+chesspedia,"This community is created for sharing things about chess like chess puzzles ,chess games,chess memes,chess news",2020-05-21,3
+Chesstrategy,"A place in which you can make chess suggestions and help others improve their chess game in many ways",2020-05-17,1
+crolichess,"Sub namjenjen igračima lichess-a",2020-05-17,91
+chessrelief,"Funny chess clips and memes along with anything creative related to chess!",2020-05-21,3
+ChessLore,"A place to discuss, speculate, and create lore for Chess.",2020-05-21,1
+chessnews,"News on chess",2020-06-13,4
+chessDegenerates,,2020-05-20,1
+onlinechesscash,"This community is for lichess players who wish to play online chess tournaments with free entry &amp; cash prizes. Only free entry lichess tournaments will be discussed here",2020-05-23,1
+ChessTr," r/ChessTr Satranca meraklı ve kendini geliştirmek isteyen T&uuml;rk oyuncular i&ccedil;in bir rehberdir. Bu toplulukta yapay zekayla oynadığınız ma&ccedil;ları, satran&ccedil; problemlerini , oyun analizleri , ustaların taktikleri , a&ccedil;ılışlar , oyun ortası ve oyun sonu taktiklerini paylaşabilirsiniz. Gelişmek i&ccedil;in satran&ccedil; kitabı tavsiyeleri, satran&ccedil; turnuva haberleri gibi bilgileri de paylaşabilirsiniz.",2020-05-29,0
+TheChessBoardDiscord,"To Be Continued is a Discord community that is home to numerous events, including debates, movie nights, political discussions, artistic adventures, &amp; more!",2020-05-26,37
+chessdrama,"A sub about the community in chess and the drama that surrounds it.  This sub is for all pictures, posts and questions related to chess outside of what is happening on the chessboard.",2020-05-26,24
+ChessRage,"Pictures/videos of toxic players trash talking after the game.",2020-05-26,1
+ChessChampion,"I will analyse every world championship match ever played, posting one game per day.",2020-06-05,128
+chesslove,"All about chess",2020-06-14,0
+chessgame,"A discussion group for all things chess.",2020-06-13,2
+chesscontent,"Subreddit for all chess related content",2020-06-13,1
+chessforall,"Chess is love chess is life.",2020-06-13,1
+chesscommunity,"chess is life",2020-06-13,1
+chessworld,"A sub reddit about chess",2020-06-13,1
+scacci,"Community for the game of chess",2020-06-13,1
+64squares,"Community for the game of chess",2020-06-13,2
+playchesswithme,"Share your lichess profile or game link to play with others here! Everyone welcomed",2020-07-12,1
+memeswithchess,"memes made with ches",2020-06-15,1
+MemeChess,"A community for any memes created with formats based on chess.",2020-06-15,1017
+chessclublive,"A community for chess players who want more than a chess board. We are a platform for free chess conversation.",2020-06-17,1
+MSC_WrestlingGame,"Master of the Squared Circle is an online, turn based, strategy wrestling simulator.  Professional wrestling is often likened to a chess match, and that was never more true than in MSC.",2020-06-16,10
+ChessPuzzleTrading,"Chess Puzzle Trading is a meme economy of chess puzzles and puzzle authors as commodities and stocks and buying (show puzzle solutions) and selling (solving puzzles).",2020-06-17,1
+Chessnewsstand,"A subreddit where to discuss chess events, news, interesting and useful bit of information",2020-06-19,73
+chessinators,"hello this is chessinators sub reddit go ahead and follow chessinators at twitch",2020-06-22,3
+Kingdom.",2020-06-23,2
+DailyChessPuzzle,"Chess Puzzles and Tactics",2020-06-24,2
+chesscup,https://chesscup.org,2020-06-26,2
+CoolChess,"Welcome to CoolChess! This is a community for redditors like you to post pictures of their cool chess sets (or ones you found online) and chat about them!",2020-06-26,8
+TheChurchofQueenNancy,"A place to share images of and worship...er...discuss the old Queen of the Canopy Kingdom, Queen Nancy! Queen Nancy is a character from Skullgirls and assumes the role of becoming a Skullgirl, causing the grand war that caused her to wish upon the Skull Heart, to end, as the three kingdom&rsquo;s in this war, (Canopy Kingdom, Chess Kingdom and Gigan Kingdom) had to come together to stop her. SFW is allowed here.",2020-07-13,2
+FourKingsOneWar,"Four Kings One War is  a TWO player strategy game inspired by chess.  Each player controls TWO armies as though they were one and gets TWO moves per turn which opens up guerrilla style tactics and hidden attacks where you can move a piece out of the way with one move and strike from behind with the other.   It is available on Steam via pc or virtual reality. we are looking for the next generation of strategists and this sub is dedicated to all things Four Kings One War.. We Salute you",2020-07-01,1
+CHESSL0RE,"SO MUCH CHESS!!!!!",2020-06-30,2
+chessknightsduo,"You can post there your chess memes or anything related to chess.",2020-07-01,5
+of Imperial Russia",2020-07-03,10
+TurtleChess,"Everything chess. Art, software, game scores, advice. But no politics. There are plenty of political pages everywhere else. This is only about chess.",2020-07-05,2
+stocktonhelbingchess,"A community of fans of the incredible drummer and educator, Stockton Helbing, who are also big fans of chess and who want to play chess with Stockton.",2020-07-05,13
+HikaruGm,"Chess - reserved contact me if u want",2020-07-06,0
+kraft_and_chesse,"we enjoy and share pictures of are awesome MacAndCheese♡",2020-07-07,1
+MastodonPodcast,"Exploring the Mastodon universe since 2008 👹 Wide-ranging, in-depth discussions, analysis and more🤘Producer: @AlbertChessa 💨🔥💧⛰🔮🎍💀⏳",2020-07-08,2
+Chunguschess,Yea,2020-07-14,2
+AnarchyUniversalis,"r/anarchychess for EU4, because the ottomans are the hardest nation",2020-07-10,1
+LongDistancePatrons,"Do you want to play an archfey making obtuse demands of a hapless adventurer? A devil moving souls on a chessboard while the pieces themselves connive? How about a soulless monstrosity from a place between universes, tapping on the scrim of reality like a cat at an aquarium? --  You know you do, and this is the place to make it happen. DMs, GMs, and Storytellers of all systems are welcome to post openings as well! Lighten that load!",2020-07-11,2
+Roxiesin,"This community is to admire the Arab instagram model RoxieSin formerly known as Peachesscheeks.",2020-06-15,2151
+chestmate,"chess pornography",2020-06-13,1
+destroyedem,"This Subreddit is for pics of people DESTROYING someone else in chess.",2020-07-16,3
+samaychessmemes,"Share your memes of Samay Raina and friends, from the amazing chess streams. P.S.- Ghoda is a respectable animal!",2020-07-16,1
+asubwherewebechesse,"u have to be chesse and nothing else and honor the chesse master",2020-07-16,1
+EricRosen,"A subreddit for all things Chess IM Eric Rosen",2020-07-19,52
+SaltAndDeath,"Salt and death is an adventure game that tries to be a combination of auto-chess with monster collection games",2020-07-18,1
+Chess2Online,"This is the official subreddit for the website https://www.chess2online.com",2020-07-18,8
+LondonChessClub,"London Chess Community",2020-07-19,1
+GothamChess,,2020-07-20,32
+ChessRushPilipinas,"Para sa mga Chess Rush pinoy players, share ng builds and strategy sa game.",2020-07-22,1
+Watchessubreddit,"Everything about watches",2020-07-22,0
+DanSometimes,"This is a subreddit dedicated to the artist, rapper, boxer and chess player DanSometimes.",2020-07-21,13
+Chess_circlejerk,"taking the piss out of chess players since 2020",2020-07-22,2
+5DChessGame,"A subreddit for the discussion of: 5D Chess With Multiverse Time Travel. https://store.steampowered.com/app/1349230/5D_Chess_With_Multiverse_Time_Travel/",2020-07-24,1
+5DChessWMTT,"The official subreddit for the new mind-bending chess variant!",2020-07-24,52
+enaichess,"Ar Enaichess - The national religion of the UK",2020-07-25,4
+5DimensionalChess,"This subreddit is for players and fans of the game 5d Chess with Multiverse Time Travel. Tutorials, tournaments, updates, and news.   RULES: 1. Be nice, this is a subreddit that is meant for 5d chess and relevant topics, not for insults or personal beliefs.   2. If there is a flair that matches your post, please use it!   3. No spam   4. All content  that contains solutions for puzzles must be marked for spoilers and not contain solutions or hints in their titles.",2020-07-25,483
+ChessTeens,"A place where teens can meet and play chess.",2020-07-27,1
+ChessNoobies,"Subreddit for people who are new to chess",2020-07-28,3
+ChessPieceTowers,"Create the tallest possible chess piece tower with one standard set of chess pieces. Submissions must have a ruler/tape measure from the bottom to the top to qualify",2020-08-02,1
+chessvideocreators,"All the chess content creators and live streamers can post their channels, regardless of platform here, so that more people can come across it and maybe somebody finds something they enjoy watching! Maybe some unknown or new content creator catches the attention of the crowd.  Kindly ensure that only links to channels which make extensive chess content are posted here.",2020-08-04,1
+ChessCat,"A place to post pictures of your tuxedo cat(s)",2020-08-06,1
+ChessCoin,"Chess Coin",2020-08-06,17
+MultiverseChess,"All things related to 5D chess and time travel.  Help would be appreciated towards establishing a help page, etc. The wiki is open to anyone.",2020-08-08,7
+fairychess,"A community for fans of chess spin-offs, puzzles, and variants.",2020-08-09,1
+onepanda,"a lot of people who&#039;s opinion chess likes think that one piece is actually good",2020-08-13,1
+BongcloudVariant,"A Subreddit dedicated to a new and interesting variant of the Centuries old game of Chess.  To win, you must get your own King to the opposing side of the board (K[]8 for white and K[]1 for black)  any of the other rules from normal chess still apply (including check!) but if you find yourself in a position of Checkmate, then you simply cannot move and the game becomes a draw!  Still confused? Check out Moogypoog on lichess:  https://lichess.org/study/by/Moogypoog  Have fun!",2020-08-10,1
+HappiCash,"Monopoly and Chess had 👶",2020-08-19,0
+imrosen,"Posts related to IM Eric Rosen, and chess in general.",2020-08-12,2
+TimeTravelingChess,"A subreddit for the Time Traveler&#039;s Chess Game (5D Chess With Multiverse Time Travel)",2020-08-13,2
+EthanChesserSub,"This is a subreddit for Ethan Chesser!",2020-08-15,1
+anarchytictactoe,"A community for tic-tac-toe enthusiasts to share memes (based on anarchychess)",2020-08-20,54
+ChessFanbois,"cool club",2020-08-20,0
+IndianChess,"Platform to discuss the Indian Chess ! C&#039;mon in !",2020-08-23,15
+nohorseinchess,"Chess has long been due for an update sense it&rsquo;s release yet the devs have not heard the complaints. The horse is a broken chess piece and needs to be patched. This subreddit is for those who want the chess devs to fix there game.",2020-08-25,2
+believable4dchess,"Outthinking the outthinking other",2020-08-24,148
+ChessiumGaming,"The best YouTube.",2020-08-26,1
+bongcloudmoment,"😂😂😂😂😂😂😂😂😂😂😂bongcloud funny XD 😂😏😂😎😎😎😎KE2 GOOD LONDON BAD UPDOOTS NOW          (Like redditmoment but for r/anarchychess",2020-08-26,13
+discussing &amp; discovering the raddest lady bands &amp; jams to date.  *Post bands from any genre &amp; any decade *ONLY REQUIREMENT: DOPENESS",2020-08-26,1
+AdultSwimPodcast,"Surrealising through life since 1998 🌀🥩⛳️🍟🍔Ever licked the inside of your own skull? Well, why not? 💀 Producer: @AlbertChessa 🎙 anchor.fm/adultswim",2020-08-27,1
+macandchessytv,"All hail mac and cheesy",2020-08-27,2
+FavourChess,"Imagine not buying favourchess.com when your game is named &quot;Favor Chess&quot;.",2020-08-31,1
+ChessBattleAdvanced,,2020-08-31,1
+reallybadchess,"all about the game &quot;really bad chess&quot;  post daily and weekly challenge, screenshots are wonderful post your rare boards. (like 8 queens for example) ask for help from others",2020-09-01,3
+XENOzenith,"XENO | a G3NIUS group   Welcome to XENOzenith. XENO is a MULTI-PLATFORM gaming group. To be able to ACESS SPECIAL ABILITIES, please join one of our groups! To get UP TO DATE news, subscribe to G3NIUS.  XENOzenith, a place where POWER is UNITY.  We COMPETE and COLLAB in places such as CLAN WARS, Brawl Stars WORLD CHAMPIONSHIP, Roblox RAIDS, and CHESS TOURNAMENTS.  To be ABLE to do this, you must be an OPERATIVE at one of our GROUPS.",2020-08-31,1
+ChaosCombatChess,"Totally official chaos combat chess subreddit",2020-09-05,11
+TotemChess,"A place to share ideas, games, puzzles, and general discussion for the Totem chess variant.",2020-09-04,5
+chessindia,"Welcome to r/chessindia! An exclusive subreddit for Indian chess lovers to discuss anything related to chess, from your games, memes, analysis, puzzles to any updates and events happening around.",2020-09-04,1
+worldchess,"r/worldchess is an independent chess subreddit for all chess players. We don&#039;t prompt any certain website, rather the game itself.",2020-09-05,1
+chessart,"Chess art",2020-09-05,1
+DemocracyChess,"a chess subreddit that is not biased",2020-09-05,4
+Chessmasters,"A chess community where everyone is welcome, and treated with the same respect as we would anyone else that post. We post tips, tricks, ideas, and more on a daily basis!  1. No Racism 2. No Politics 3. Self Promotion is allowed 4. Good vibes only",2020-09-06,1
+BeginnersChess,"Share your experience with others, whether you&#039;re a beginner yourself or have a few tips for others.",2020-09-08,2
+PassengerChess,"AlarmesPassenger&#039;s chess journey. Started playing in May. Started at 500 and have progressed by 100 each month. Currently at 900 rating on Chess.com.",2020-09-08,1
+okchessretard,"sex gambit",2020-09-08,70
+ChessAnarchy,&mdash;&mdash;&mdash;&mdash;,2020-09-14,18
+ImNo,"Community for the UK alternative rock band I&rsquo;m No Chessman!",2020-09-14,0
+LondonSystemMains,"Welcome!  This is a Subreddit for all of us London System players in chess.",2020-09-17,1
+AlanMoorePodcast,"The Alan Moore Podcast Darkness yields to light 📖🎭✨♾🎇 A podcast about Alan Moore (V For Vendetta, Watchmen, The League of Extraordinary Gentlemen)🎙Producer: @AlbertChessa 📧",2020-09-17,4
+chesscombinations,"A subreddit made for sharing chess combinations of all rating groups. Be it a master combination or a amateur combination, you are welcome to share it!",2020-09-17,1
+let_them_play_chess,"You&rsquo;re playing chess, they&rsquo;re playing checkers.  Ever find yourself playing checkers in chess match?  That&rsquo;s fine too.  We&rsquo;ve all been there and no one&rsquo;s perfect.  If you&rsquo;ve ever been a step ahead in a situation or on the receiving end, the game you&rsquo;re playing is worthy of thought; so what&rsquo;ll it be?  Chess or checkers?",2020-10-10,1
+ApesPodcast,"The Apes Podcast - Swinging around Ape City since 2001 🦍🌳🦧 News, facts, lore &amp; more leading to @wes_ball&rsquo;s film &amp; other upcoming media 🎮 📖 Producer: @AlbertChessa 🎙 Anchor.fm/apespodcast",2020-09-19,2
+Ram_2500,"In the chess game that is best-in-class ratings, the 2021 Ram 2500 rises above rival heavy-duty trucks with their unmatched ride quality and luxury options. The largest Rams boast massive max towing and engine-torque figures&mdash;they can pull up to 37,100 pounds, and their Cummins diesel makes up to 1075 lb-ft of torque. Plus, neither the Ford nor the heavy-duty Chevy Silverado and GMC Sierra ride as smoothly or are as elegant as the fanciest Rams.",2020-12-26,1
+ChessMandali,"Indian Chess community",2020-12-25,15
+Chessideas,"A sub for ideas for different variations of chess, or other board games.",2020-11-06,1
+Tri_D_Chess,"A subreddit dedicated to the Star Trek game of Tri-dimensional chess.",2020-12-19,1
+ageofcaissa,"Age of caissa is a manga made to promote chess. Not only is age of caissa is about chess but it has an interesting story and has artificial intelligence invloved in the manga.",2020-09-26,3
+The Sultans and Earls.",2020-09-26,2
+ChessTuts,"Quick &amp; Easy to Understand Tutorials for Chess https://ChessTuts.com",2020-09-26,1
+ChessyWasTaken,"The official subreddit of the youtuber Cheese Wheel 55.",2020-09-28,1
+redditglitchessucc,"describe ur reddit glitches. I&#039;ll see it",2020-09-27,2
+ChesswithCwenga,"All things chess.",2020-09-28,1
+NorthernBeachesSYD,"Any post about Sydney&rsquo;s Northern Beaches belong here. 😊",2020-09-28,1
+NJSCF,"The Official Subreddit for the New Jersey State Chess Federation!",2020-09-29,3
+StudyChess,"This is for real chess players that actually want to improve and not get blocked or banned for petty opinions that the moderators don&#039;t share.",2020-10-02,1
+Duval_Dutchess,"Wife half of a swinger couple in N. FL that enjoys meeting other couples, single guys and single girls.  Always looking for sexy new friends.",2020-10-01,209
+chessrule34,"It chess porn what&rsquo;d you expect",2020-10-06,0
+ThugDougChess,"Follow the antics of Thug Doug as he takes on all comers in the Culver City chess scene.",2020-10-11,2
+chessetianity,"a community where we can worship cheese, the benefits it brings to the world, and give money to our one true leader, Thomas",2020-10-12,2
+AstroChess,n/a,2020-10-12,1
+chessvids,"Videos about chess. Entertainment, educational, news",2020-10-12,1
+SomeBronzePencilPosts,"r/SomeBronzePencilPosts is where I, u/BronzePencil, post some of my more important posts that aren&#039;t on r/CentariChess.",2020-10-18,2
+Chessies,"The Reddit Page for all people who own, want to own, or just downright love Chesapeake Bay Retrievers. Some of the best hunting and waterfowl dogs on earth, Chessies also make great family pets with the right knowledge and experience.",2020-10-19,3
+KellyFunchess,"A Subreddit dedicated to topic KellyFunchess",2020-11-04,1
+fogofwarchess,"A place to discuss Fog of War Chess (a Chess variant)",2020-10-20,1
+AutoBrawlChess,"Auto Brawl Chess: Battle Royale (iOS &amp; Android)",2020-10-24,89
+the_queens_gambit,"Set during the Cold War era, orphaned chess prodigy Beth Harmon struggles with addiction in a quest to become the greatest chess player in the world.",2020-10-24,3
+SovereignChessVariant,"Discussion of Sovereign Chess variant by Mark Bates",2020-10-27,13
+IndiaChess,https://www.wikiwand.com/en/Indian_chess,2020-10-27,1
+NetflixQueensGambit,"For the Netflix series starring Anya Taylor-Joy as Beth Harmon, an orphaned chess prodigy on a quest to become the greatest chess player in the world.",2020-10-27,2
+Chessie_Rae,"This Subreddit is about the hot pornhub performer Chessie Rae",2020-10-30,4
+SicilianDefense,"this sub is dedicated to the superior chess opening, the Sicilian Defense!",2020-11-01,21
+ChessSets,"A place for you to post all the nice chess sets that you find or make.",2020-11-05,3
+Chess_Boards,"For cool chess sets that you find around reddit",2020-11-05,1
+RDRGLITCHESS,"Posting most recent glitches in red dead redemption online and sharing it towards this community for all the new or veteran players to use to get up, don&rsquo;t use glitches to earn exploit weapons and kill players for fun/toxic",2020-11-06,1
+charlestonchessclub,"Chess Fans Charleston SC",2020-11-07,17
+Chess_2,"A community for the upcoming game of chess 2",2020-11-08,1
+ChessThinkersForum,"A place for chess players to talk about what interests them beyond chess.",2020-11-09,1
+Chesspeople,"Here at Chesspeople, we are all about chess. We are obsessed with chess and talk about chess everyday. We talk about funny chess stuff, chess openings and many more to help you get entertained with chess and to become a better chess player. So join Chesspeople now!",2020-11-15,0
+shogimemes,"r/anarchychess has met it&#039;s match",2020-11-16,1
+Dejarik,"Dejarik, also known as holochess, is the oldest strategy game from the Star Wars universe. This subreddit is for discussion about the game in relation to Star wars movies and TV and in real life adaptations.",2020-11-16,2
+Playchessinbatonrouge,"For people trying to arrange chess matches",2020-11-16,1
+Hive.",2020-11-17,3
+chessturkey,"Satrancı T&uuml;rkiye&#039;de yaymak ve satran&ccedil; ile ilgili fikirlermizi paylaşmak birbirimizi geliştirmek i&ccedil;in buradayız",2020-11-18,2
+chessnovelties,"its all about chess..sharing some quality chess stuff or chess videos..learning in chess is free...",2020-11-18,1
+ChessEndgames,"chess endgames",2020-11-19,1
+anarkeychess,effor!,2020-11-19,1
+ChessnutCorner,"Easy to learn, impossible to master!",2020-11-20,1
+BerlinChessClub,"A group for chess players of all levels to talk and play chess",2020-11-21,51
+ChriSmoove,"CHRIS SMOOVE CONTENT OVER HEAR THAT SOME CHESSE",2020-11-23,1
+Chess_pen_pals,"Do you remember the old school chess games where people would play by letter with each other?  I&#039;d love to recreate something like this. Could be physical messages, could be reddit chat.",2020-11-22,1
+ChessResources,"Learn chess at all levels by accessing the resources in this sub!",2020-11-22,465
+chesshoneys,,2020-11-23,0
+DreamSMPChess,"Kind of a joke, kinda not lol We discuss Dream SMP chess, tactics, rules, and games",2020-11-29,3
+NotChess,"A community for my personal vendetta against the abstract strategy game chess. Chess has sat at the top for too long, and for no good reason. You&rsquo;re welcome to post anything as long as it&rsquo;s SWF, not illegal, and most importantly anti-chess. Posts about non-chess strategy games are strongly encouraged.",2020-11-30,1
+zatchess,"for the streamer zatchess  Please make posts at least a bit related to zatchess",2020-11-30,3
+WiiChess,"Our name says it all.",2020-12-01,1
+chessasaur,"A subreddit dedicated to the man, the myth, the legend, Chessasaur, a Twitch streamer and retired sysadmin.",2020-12-05,4
+godtierchess,"Made it for you bud",2020-12-08,1
+playchessnow,"Have fun",2020-12-09,2
+developmychess,"A place for everybody to learn more about chess such as openings, sacrifices, endgames etc.",2020-12-08,1
+prochesstraining,"This is the official subreddit for prochesstraining.com",2020-12-08,1
+OkBuddyFE,"chess with sex appeal",2020-12-10,3
+BanChess,"Chess is extremely racist as it puts blacks against whites in war.",2020-12-10,3
+ChessLesson,"Chess Lesson Chess Tactics and more",2020-12-11,6
+fatacus,"Subreddit for the chess youtuber fatacus",2020-12-13,7
+5DChessWithTimeTravel,"This is a community for the video game 5D Chess with Time Travel. No, not 5D Chess with Multiverse Time Travel. I definitely didn&#039;t exclude part of that game&#039;s name to form this subreddit because the character limit prevented me from fitting the whole thing; this subreddit is just about a different game that certainly exists.",2020-12-13,6
+LichessBots,"A place where you can ask for help, advertise your bots, and show some dev.",2020-12-14,1
+Kyrichess,"Kyrichess content",2020-12-17,1063
+AutocracyChess,"r/AnarchyChess but more disciplined",2020-12-17,13
+ChessRebalanced,"Hello! We are Chess Rebalanced, every week we take the most popular chess change and implement it into our game, try it out! [Game Under construction]",2020-12-19,9
+need to be 18+ no underage thanks",2020-12-22,36
+NickOwensIsBadAtChess,"A sub for people to post about how Nick Owens is bad at chess",2020-12-22,2
+VoidCreative,"We&#039;re a community with a vibrant array of interests from a plethora of backgrounds. We love sharing what we&#039;re passionate about, and that&#039;s why our server exists. While, our biggest topic is definitely investing, we also dive off into the realms of computer science, mathematics, gaming, sports, politics, chess, and many others!",2020-12-22,1
+Chessaddiction,"This community is for those who got too deep in the rabbit-hole of perfect mathematical combat - aka chess",2020-12-27,1
+Variations,"All Chess Opening Variations main line and theory.",2020-12-29,2
+ChessNotCheckers,"Community for references of funny scenarios of individuals (or non-humans) handling a situation in which you think &ldquo;Wow, they&rsquo;re playing Chess, not checkers&rdquo;.",2020-12-29,1
+MikhailTal,"All about the Chess Legend Mikhail Tal, the sacrificing magician of Riga the brilliant player and mind of Tal&rsquo;s games in a Subreddit.  Owner: @ItsFocal",2020-12-29,1
+Sloga,"Slow Yoga. 10 mins per pose at least (or thereabouts). Deeeep stretch. Post stories and tips! Aka Messy/Informal/Roll-out-of-bed Yoga, founded by u/AlbertChessa (practice) and u/OminousArtie (came up with the name) 🧘&zwj;♀️ Get your slooooooga floooow ooooon",2020-12-31,27
+chesscoaching,"Want to hire a chess coach? or do you want to showcase your services? Make sure to follow the rules and regulations. Thanks!",2021-01-02,1
+chessadvice,"The subreddit for chess advice, tips and tricks to play chess!",2021-01-03,1
+NotHowChessWorks,"A place for laughing at stupid chess boards and chess moves.",2021-01-05,1
+chesscoaches,"Looking for a chess coach or looking to coach, this is the right subreddit!",2021-01-05,1
